@@ -1,0 +1,32 @@
+Title: RETRIEVING BACK ISSUES OF THE FF DIGEST FROM
+Categories: Digest, August, Reference
+Yield: 1 Servings
+None
+Those that are interested can retrieve back issues of the FATFREE
+digest by anonymous ftp or email.  It is prefered that you use
+anonymous ftp if it is available to you.
+
+Here are the volume/issue numbers for recent digests:
+
+Friday, July 29:volume9/38 Saturday, July 30:volume9/39 Sunday, July
+31:volume9/40 Monday, Aug 1:volume9/41
+
+These and other issues from volume 9 (and volume 8) are available.
+
+FTP:  ftp.rahul.net:/pub/artemis/fatfree/volume9
+
+* * * * * * *
+
+EMAIL SERVER: send message to ba-fatfree-request@hustle.rahul.net
+with the subject "archive" and put commands in body of message.
+
+For example, to get the issues listed above, send the following
+message:
+
+To: ba-fatfree-request@hustle.rahul.net Subject: archive
+
+Body of message: get volume9/38 get volume9/39
+
+etc.
+:
+

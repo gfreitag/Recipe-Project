@@ -1,0 +1,47 @@
+Title: Converting Bread Recipes for Breadmaker
+Categories: Bread, Information, Breadmaker
+Yield: 1 hints
+MMMMM-----------------COPYRIGHT 1994 S. STEIGER----------------------
+1. Calculate the number of "loaves" in a non-ABM recipe by allowing 3
+cups of flour per "loaf" (or 2 cups flour for a 1-lb machine).
+Rounding off is fine; if a recipe calls for 5 cups flour, I figure
+that's close enough to 2 loaves for government work.  Remember to add
+in ALL the flours, if there's bread flour plus WW flour plus rye
+flour plus ... you get the idea. Most handmade bread recipes seem to
+make 2 loaves.
+
+2. Have MM resize it to 1 loaf.
+
+3. Manually change the yeast and sugar amounts to whatever suits your
+machine.  In my R2D2, 1/2 tb yeast and 1/2 tb sugar are optimum.  (If
+you don't know what works best in your machine, don't try altering
+recipes yet! Try a number of different ABM recipes and start looking
+for a pattern. What amounts give the best results?)  If the amount
+the resized recipe calls for is dramatically different from what you
+know works in your machine, don't worry.  Stick with what works in
+your machine. (This does not apply to sweet breads; since my R2D2
+doesn't produce usable sweet breads, I've not tried to convert sweet
+bread recipes and have no guidelines to suggest.)
+
+4. Add the dry ingredients and oil/butter/eggs to the machine.
+Measure out the liquid and pour in HALF of the measured amount.  (If
+your machine calls for putting in the liquid first, and you're
+terrified to use a different ingredient order, put only HALF the
+measured amount of liquid in.) Start the machine and let knead a few
+minutes. Add remaining liquid, a little at a time, until the dough is
+the right consistency. (Again, if you haven't used your ABM enough to
+recognize the right consistency when you see/feel it, don't start
+adapting recipes yet.) You may need to add more liquid, or you may
+have liquid left over. Make a note of how much liquid you actually
+used.
+
+5. When the bread is done, evaluate.  Didn't rise enough?  Add
+another 1/8 cup liquid next time.  Overflowed?  Reduce the liquid by
+1/8 cup. I don't remember the last time I had to adjust anything
+except the liquid.
+
+MM by Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, Internet
+sylvia.steiger@lunatic.com, moderator of GT Cookbook and PlanoNet
+Lowfat & Luscious echoes
+Submitted By LISA GREENWOOD   On   12-07-94
+

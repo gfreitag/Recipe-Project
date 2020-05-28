@@ -1,0 +1,86 @@
+Title: Rec.food.cooking FAQ - 8 Of 13
+Categories: Information
+Yield: 1 servings
+5 ea This has come up once too
+-often....
+++++++++++++++++++++++++++++
+-++++++++++++
+This list is a (futile?) attempt to keep certain well-worn subjects
+from coming up yet again.  Further suggestions always welcome.
+++++++++++++++++++++++++++++++++++++++++ 5.1 The $250 cookie recipe
+This recipe comes up often, usually here but also on other newsgroups
+(where it is even less appropriate).  The story goes that a woman had
+a cookie at [usually Mrs. Field's or Niemann Marcus' cafe], and liked
+it so much she wanted the recipe.  The clerk said "It will cost you
+two-fifty"; the woman thought that meant $2.50 and was shocked to
+find it meant $250. She is now spreading it to get revenge, since it
+was not returnable. There are a number of holes in the story, and no
+one has ever brought forth any evidence that it really happened.  (If
+you want to argue that you know someone who knows someone who this
+really happened to, take it over to alt.folklore.urban, where they
+will proceed to have you for breakfast if you have no evidence.)
+More importantly, it has been posted more than enough times by now.
+Some people have tried the recipe and pronounced it good, but it
+ain't Mrs. Field's.  If you would like the recipe, ask for someone to
+mail it to you. It has been pointed out to me that the recipe is in
+the standard source distribution for GNU Emacs. If your site has that
+source, look in the "etc" directory for a file named COOKIES. Most
+importantly, please DO NOT post it any more. There is also a Mrs
+Fields cookbook, published by Time-Life. This has recipes, but not
+the exact ones for the ones sold in the stores, as those recipes are
+not well suited to home baking
+++++++++++++++++++++++++++++++++++++++++ 5.2 Requests for "authentic"
+recipes Can someone please post the authentic recipe for ...? The
+problem with questions like this is that, for many foods, there is no
+single recipe which can be said to be the most authentic. Recipes
+undergo a slight variation as they are passed on from one cook to the
+next. The only recipes this can work for are those whose creator is
+known (and still living) and those which were written down and
+preserved or published immediately after being invented. This sort of
+question seems to pop up a lot about buffalo wings (chicken wings in
+a spicy sauce)... ++++++++++++++++++++++++++++++++++++++++ 6 What on
+Earth is...? A glossary of ingredients aji
+++++++++++++++++++++++++++++++++++- Aji (singular form) is what the
+Peruvians call chile peppers.  The species in particular is capsicum
+baccatum, and the derivation of the name is somewhat odd. When
+Columbus started this whole confusing thing with Indians and peppers
+that weren't what he thought they were, the Arawak people of the
+Bahamas called their capsicums "aji." Columbus packed them back to
+Spain, the Portuguese took them around the world, and within a
+hundred years peppers had been distributed to China, Japan, India,
+Turkey, and back through the Balkans to Europe. allspice, mixed spice
+and five-spice ++++++++++++++++++++++++++++++++++++ Allspice is the
+dried, unripe berry of a small tree.  It is available ground or in
+seed form, & used in a variety of dishes such as pickles, casseroles,
+cakes & puddings. Also known as Jamaica Pepper. Mixed spice is a
+classic mixture generally containing caraway, allspice, coriander,
+cumin, nutmeg & ginger, although cinnamon & other spices can be
+added. It is used with fruit & in cakes. (In America 'Pumpkin Pie
+Spice' is very similar). Five-spice powder is a blend of star anise,
+cinnamon, cloves, fennel & Szechuan pepper. It is used in Chinese
+cooking bagels ++++++ Chewy bread with a hole in the middle - round,
+and 3-4 inches in diameter. The origin is Russian-Jewish. Can come
+with many types of toppings on it. Dough is boiled then baked with
+toppings such as onion, garlic, poppy seeds etc. Flavours can also be
+kneaded into the dough. On the east coast usually used as a breakfast
+bread but can also be used as a sandwich bread. A well known
+combination is bagels with cream cheese and lox (brine-cured salmon).
+broccolrabe ++++++++++- A green bitter vegetable unless harvested
+young.  Looks like broccoli but has skinnier stalks.  The leaves,
+stems and florets are eaten. Really good sauteed with garlic and
+olive oil and served over pasta. conch ++++- A Mollusk Gastropod -
+"Strombus" - Abundant in US only off Florida Keys, where it is
+illegal to take.  (has been for 10?  years now).  Most now comes from
+Caribbean islands such as Turks and Caicos, Trinidad, or Honduras. It
+is imported in frozen 5 lb boxes, which is how I buy it at fish
+markets. Some will defrost some and thus put individual "steaks"
+(conchs) out on display case for lower quantity purchasers, but these
+may sit for a while. One Conch steak typically weighs 1/5 to 1/3 lb
+appx. These sell for prices ranging from $4.99 - $6.99 per pound.
+These steaks are taken home, beaten the crap out of, with device such
+as a rolling pin, (to tenderize) then cubed for conch salad or conch
+fritters. (BTW when in Florida & Caribbean you better pronounce it
+"Conk" or we all laugh at you and double the price).
+
+Submitted By DAVID KNIGHT   On   02-27-95
+

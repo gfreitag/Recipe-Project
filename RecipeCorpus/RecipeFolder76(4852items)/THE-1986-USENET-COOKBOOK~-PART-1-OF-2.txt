@@ -1,0 +1,54 @@
+Title: THE 1986 USENET COOKBOOK~ PART 1 OF 2
+Categories: Information
+Yield: 1 File
+USENET recipes
+(Recipes from the global village; July 1993)  A collection of recipes
+by the readers of USENET, from the newsgroup mod.recipes.
+
+It is a "moderated" newsgroup, which means that everything published
+in it must be approved by the moderator (editor). Readers submit
+recipes electronically by mailing them to the editor.  He edits for
+style, form and content, and performs conversion to or from metric
+units if necessary. The finished recipes are published in weekly
+batches, which are sent from Palo Alto every Thursday.
+
+: Edited by Brian K. Reid
+: Palo Alto, California, U.S.A.
+: ihnp4!decwrl!reid   reid@decwrl.dec.com
+: Copyright (C) USENET Community Trust
+
+Permission to copy without fee all or part of this material is granted
+provided that the copies are not made or distributed for direct
+commercial advantage, the USENET copyright notice, title and
+publication date appear, and notice is given that copying is by
+permission of the USENET Community Trust.
+
+PROCEDURE:  To participate, you will need to get mod.recipes at your
+site. A package of software for using it is posted from time to time
+into mod.recipes. Get that software and install it on your machine;
+it will enable you to save recipes easily and to print cookbooks from
+them.
+
+To submit a recipe to the USENET Cookbook, mail its text to the
+newsgroup moderator, ihnp4!decwrl!mod-recipes (uucp) or
+mod-recipes@decwrl.DEC.COM (internet).  The news software at most
+sites will do this automatically if you try to post to mod.recipes.
+
+It's important that you tell us where you got the recipe from. It's
+ok if you cribbed it from a book or magazine or newspaper, but if you
+copy the words that you found there, you have probably violated a
+copyright. Copyright law is complex, and only a lawyer can reliably
+advise you on whether or not you are violating it, but in general if
+you rewrite a recipe, in your own words, even if you don't change the
+formula, then you are not infringing the copyright by submitting that
+recipe to the network. The copyright is on the words that explain the
+recipe, and not the recipe itself.
+
+COPYRIGHT:  The entire USENET Cookbook is copyright by the USENET
+Community Trust, which is a California organization formed for the
+purpose of holding the copyright. The purpose of this copyright is to
+prevent commercialization of the Cookbook. Read the copyright notice
+on the title page.
+
+Copyright (C) 1986 USENET Community Trust
+

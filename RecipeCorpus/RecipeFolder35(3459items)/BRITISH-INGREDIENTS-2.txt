@@ -1,0 +1,40 @@
+Title: BRITISH INGREDIENTS 2
+Categories: Information, British isl
+Yield: 1 servings
+-SHDH61A BILL KENT
+ingredients:
+
+bangers = sausages
+mash = mashed potatoes
+kippers = smoked herring
+chips = French fries
+crisps = potato chips
+tomato sauce = ketchup
+
+measurements:
+
+1 bag = 24 gallons
+1 bucket = 4 gallons
+1 butt = 126 gallons
+1 coomb = 32 gallons
+1 firkin = 9 gallons
+1 gill = 1 noggin
+1 hogshead = 63 gallons
+1 kilderkin = 18 gallons
+1 last = 640 gallons
+1 minim = 0.000104 pints
+1 noggin = 5 fluid ounces
+1 peek = 0.0625 coombs
+1 quartern = 0.5 gallons
+1 sack = 24 gallons = 1 bag
+1 scruple = 0.002857 pounds
+1 seam = 8 bushels
+1 stone = 224 ounces
+1 strike = 2 bushels
+
+Ain't the English system grand? And there are those who want us to go
+Metric. <bg>.
+
+Bill Kent, 0926 Hrs PDT
+~- [ Submitted By ELAINE RADIS * EMC.VER #2.10P ] --  On   10-08-95
+
