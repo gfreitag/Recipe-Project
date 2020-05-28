@@ -7,14 +7,18 @@ import re
 
 fileName=input("Please give filename:\n")
 f=open(fileName,encoding="iso-8859-1")
+delim=input("Please give delimiter for applicable meal-master format:\n")
 
 contents=f.read()
-recipes=re.split('\nM{5}\n',contents)
+if(delim[0]=='-'):
+    recipes=re.split('\n-{5}\n',contents)
+elif(delim[0]=='M'):
+    recipes = re.split('\nM{5}\n', contents)
 
 for i in range(len(recipes)):
     titleFull=re.findall('Title: .*\n',recipes[i])
     if(len(titleFull)>=1):
-        recipes[i]=recipes[i].replace('MMMMM----- Recipe via Meal-Master (tm) v8.02','\n')
+        recipes[i]=recipes[i].replace(delim,'\n')
         recipes[i]=recipes[i].replace('-----Meal-Master','')
         recipes[i] = recipes[i].replace(' \n','\n')
         recipes[i] = recipes[i].replace('\n\n','\n')
