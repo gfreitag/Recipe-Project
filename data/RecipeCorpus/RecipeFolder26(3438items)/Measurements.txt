@@ -1,0 +1,47 @@
+Title: Measurements
+Categories: Information
+Dry Measure Equivalents
+Yield: 1 info
+
+tsp
+:To
+
+:From
+
+1
+:teaspoon
+
+1
+:tablespoon   1/3
+
+1/48
+:cup
+
+1/96
+:pint
+
+Liquid Measure Equivalents
+
+tsp
+:To
+
+:From
+
+1
+:teaspoon
+
+1
+:tablespoon   1/3
+
+1/6
+:ounce
+
+1/48
+:cup
+
+1/96
+:pint
+
+Great Bread Machine Recipes by Norman A. Garrett ISBN 0-8069-8724-3
+pg 122 Submitted By DIANE LAZARUS   On   01-30-95
+

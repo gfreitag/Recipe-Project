@@ -1,0 +1,63 @@
+Title: Rec.food.cooking FAQ - 12 Of 13
+Categories: Information
+Yield: 1 servings
+8 ea The rec.food.cooking Food
+-Exchange
+++++++++++++++++++++++++++++
+-++++++++++++
+People from all over the world read rec.food.cooking.  If mere words
+are not sufficient to explain a food not from your region, if you
+want to try local items from other parts of the world, then read
+on... After a successful large-scale exchange orchestrated earlier
+this year by David Wilkinson in the UK, it has been suggested that
+ongoing requests for food exchange partners be posted as follows : *
+EXCHANGE should be the first word in the Subject: line.  This allows
+people who aren't interested to use whatever facilities their
+newsreader allows to avoid posts on this subject. * Posts should
+indicate what you have and what you want.  For example "I have Cherry
+Ripe bars, does anyone want to swap for Peanut Butter M&Ms" or "I'm
+from France and I'd like to swap regional foods with someone from the
+USA" (perhaps followed by a representative list of regional foods).
+If you want to swap food with someone, either post your own request
+or reply to somebody else's. OR try to pick up on the occasional
+postings people make offering to do one round of a large scale
+orchestration. And now, some hints : * Overseas postage can get VERY
+expensive, VERY fast. You will probably want to send all but the very
+tiniest of packages by surface mail. This takes weeks and weeks and
+so the perishability of the food items you send will need to be taken
+into account. * Some countries have stringent import restrictions.
+Fresh foods and anything that might harbour insects, for example, are
+not likely to get into some countries, also viable seeds are not
+welcomed in countries such as New Zealand. * Some ideas on packaging
+anything that is not remarkably sturdy - use a rigid outer box of
+some sort - wrap anything containing liquid in its own plastic bag,
+disasters happen - if there are heavy things packed with fragile
+things, remember to anchor them (maybe with tape) - use some sort of
+packing material (I use newspaper) to cushion the effect of any bumps
+~ pick the smallest box that your things will fit into - coffee
+canisters work well to send cookies in - toilet paper tubes are good
+space fillers, you can also put small things inside them * Postage
+really is a killer. I can't emphasise this one enough * Good and Bad
+Travellers (please contribute!): - Good Nut Breads Spices Nuts
+Anything Dried - Bad Glass (usually) - heavy (= expensive) and
+breakable - with careful packing it's ok Oily Things. Wrap these
+well, or else they will weaken their part of the box
+++++++++++++++++++++++++++++++++++++++++ 9 Archives [If you are
+archiving recipes from rec.food.cooking, please tell me about it so I
+can put it here] ++++++++++++++++++++++++++++++++++++++++ 9.1
+Archives from rec.food.recipes rec.food.recipes is being archived at
+several FTP sites : Currently updated sites: * ftp://ftp.neosoft.com
+in /pub/rec.food.recipes (login as `anonymous') maintainer
+: Stephanie da Silva (arielle@taronga.com) This is the official
+rec.food.recipes archive. * ftp://ftp.halcyon.com/pub/recipes Some
+older (often not currently being updated) archive sites: *
+ftp://gatekeeper.dec.com/pub/recipes alt.gourmand files *
+ftp://mthvax.cs.miami.edu/recipes rec.food.recipes under aem
+moderatorship *
+ftp://wuarchive.wustl.edu/usenet/rec.food.recipes/recipes mthvax
+mirror *  ftp://ftp.uu.net/usenet/rec.food.recipes another mthvax
+mirror * ftp://ils.nwu.edu/pub/sourdough FAQs and mailing list
+archives * ftp://rahul.net/pub/artemis/fatfree/FAQ Fat Free recipe FAQ
+
+Submitted By DAVID KNIGHT   On   02-27-95
+

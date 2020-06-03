@@ -1,0 +1,47 @@
+Title: THE 1986 USENET COOKBOOK~ PART 2 OF 2
+Categories: Information
+Yield: 1 File
+USENET recipes
+INTRODUCTION 27 Jun 1986:  The new electronic interdependence
+recreates the world in the image of a global village. (Marshall
+McLuhan, 1967)
+
+INTRODUCTION:  This is a community cookbook, from an invisible
+worldwide electronic community.  Like all community cookbooks, it has
+the favorite recipes of the members of the community, suitably edited
+and organized. The USENET Cookbook is a collection of the favorite
+recipes of USENET readers worldwide.
+
+USENET:  USENET is the network by which Unix computer users talk to
+each other.  It is a worldwide net, made from computer-to-computer
+telephone links, linking some 60,000 people at 2,000 sites in 25
+countries. Besides serving an obvious technical and scientific
+purpose, USENET is also a medium for linking worldwide social groups
+of people who share common interests. The network group of people who
+like to cook is called net.cooks.  As an experiment in interactive
+electronic publication, the members of net.cooks decided to make a
+cookbook of recipes from their "global village". Brian Reid of DEC
+Western Research in Palo Alto, California, wrote the software and
+organized the online publication of the cookbook.
+
+The USENET Cookbook is a database and not just a book. The paper copy
+that you are holding was printed from a copy of the online database
+at some USENET site, but even as you are reading it, new recipes are
+being added to that database.
+
+The USENET Cookbook is an online database distributed with the
+intention that it be published as a book. The USENET Cookbook is
+distributed with software that enables every user to make his own
+customized edition of it, leaving out the recipes that he has no
+interest in, and perhaps adding a few of his own that he hasn't yet
+submitted to the network. There will be many different versions and
+editions of it, all with the same title, and all copyrighted. Every
+user can choose whether to print the recipes in imperial units (cups
+and spoons) or in metric units.
+
+: Copyright (C) 1986 USENET Community Trust
+
+: Converted to MealMaster format March 1995 by Vicki Braun
+: Ft. Walton Beach, FL  (USA)
+: vbraun@fwb.gulf.net
+

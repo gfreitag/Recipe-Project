@@ -1,0 +1,20 @@
+Title: Fit-L Mailing List
+Categories: Fatfree, Information
+Yield: 1 servings
+None
+There is a fitness mailing list called FIT-L (Exercise/diet/wellness
+talk list)
+
+To subscribe, send mail to LISTSERV@ETSUADMN.ETSU.EDU with
+
+SUBSCRIBE FIT-L <your name>
+
+in the body of the message.
+
+After you have subscribed, you can get the digest version by sending
+mail to the same address above with SET FIT-L DIGEST in the body of
+the message.
+
+Fatfree Digest [Volume 10 Issue 48], Sept. 28, 1994. Formatted by Sue
+Smith, S.Smith34, TXFT40A@Prodigy.com using MMCONV.
+
