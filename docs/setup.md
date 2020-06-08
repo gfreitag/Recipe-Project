@@ -1,4 +1,4 @@
-<h1>How to prepare mealMaster data for training<h1>
+##How to prepare mealMaster data for training
 * download file in MealMaster format(mmf)
 * move file into python directory
 * run **split.py**
