@@ -5,9 +5,9 @@ This program renames files to be ascii compatible.
 import os
 import re
 
-for filename in os.listdir("./RecipeFolder16(150items)"):
+for filename in os.listdir("./"+folder):
 
-    src = './RecipeFolder16(150items)/' + filename
+    src = './'+folder+'/' + filename
     dst=filename
     nonAlpha=[]
     for char in filename:
@@ -17,7 +17,7 @@ for filename in os.listdir("./RecipeFolder16(150items)"):
         dst = dst.replace(chars,'-')
 
     dst=dst.replace("-txt","")
-    dst = './RecipeFolder16(150items)/' + dst +'.txt'
+    dst = './'+folder+'/' + dst +'.txt'
 
     # rename() function will
     # rename all the files

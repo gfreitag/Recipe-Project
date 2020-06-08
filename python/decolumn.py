@@ -9,7 +9,8 @@ import os
 import glob
 for filename in glob.glob('*.txt'):
     with open(os.path.join(os.getcwd(), filename), 'r') as fr:
-        path = "./RecipeFolder23(3495items)"
+        folder=input("Please give recipe folder name:")
+        path = "./"+folder
         fullPath = os.path.join(path, filename)
         with open(os.path.join(os.getcwd(), fullPath), 'w') as fw:
             saw_ingredients = False
