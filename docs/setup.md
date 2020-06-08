@@ -5,4 +5,4 @@
 * Move newly seperated recipe files into its own folder
 * Run **decolumn.py**, giving newly created folder when prompted
 * run **rename.py** to make ascii compatible.
-* Seprate data into testing and training data 
+* Seperate data into testing and training data 
