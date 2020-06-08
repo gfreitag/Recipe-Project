@@ -1,4 +1,4 @@
-##How to prepare mealMaster data for training
+## How to prepare mealMaster data for training
 * download file in MealMaster format(mmf)
 * move file into python directory
 * run **split.py**
