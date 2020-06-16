@@ -7,7 +7,8 @@ from pathlib import Path
 
 columns={0: 'text', 1: 'label'}
 dataPath='../data/'
-corpus: Corpus = ColumnCorpus(dataPath, columns, train_file='train_data.txt', test_file='test_data.txt', dev_file='test_data.txt')
+test_file=input("Test data file name:")
+corpus: Corpus = ColumnCorpus(dataPath, columns, train_file='train_data.txt', test_file=test_file, dev_file='test_data.txt')
 
 tag_type='label'
 tag_dict=corpus.make_tag_dictionary(tag_type=tag_type)
@@ -19,7 +20,7 @@ embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
 tagger: SequenceTagger = SequenceTagger(hidden_size=256, embeddings=embeddings, tag_dictionary=tag_dict,
                                         tag_type=tag_type, use_crf=True)
 
-str_path = "/Users/gretafreitag/PycharmProjects/flairModel/venv/output/"
+str_path = input("path to saved model:")
 path = Path(str_path)
 
 trainer: ModelTrainer = ModelTrainer(tagger, corpus)
