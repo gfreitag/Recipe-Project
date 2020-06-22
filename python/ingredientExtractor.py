@@ -6,11 +6,11 @@ import re
 class Extractor:
     def __init__(self, model, recipes):
         self.ingreds=set()
-        self.model=model
         self.recipes=recipes
+        self.model = SequenceTagger.load(model + '/best-model.pt')
 
     @staticmethod
-    def _find_ingredients(self, sentence: Sentence):
+    def _find_ingredients(sentence: Sentence):
         ingredList = []
         for token in sentence:
             if "Ingredient" in token.annotation_layers["label"][0].value:
@@ -25,7 +25,7 @@ class Extractor:
                     ingredList.append(stripped)
                 if "I-Ingredient" in token.annotation_layers["label"][0].value:
                     ingredList[-1] = ingredList[-1] + ' ' + stripped
-        return ingreds
+        return ingredList
 
     def compile_set(self):
         for filename in glob.glob(self.recipes + '/*.txt'):
@@ -33,7 +33,7 @@ class Extractor:
             for line in fr:
                 sentence = Sentence(line)
                 self.model.predict(sentence)
-                sub_list = _find_ingredients(sentence)
+                sub_list = self._find_ingredients(sentence)
                 for item in sub_list:
                     self.ingreds.add(item)
 
