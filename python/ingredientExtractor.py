@@ -21,6 +21,7 @@ class Extractor:
                 stripped = stripped.replace(':', '')
                 stripped = stripped.replace('-', '')
                 stripped = stripped.replace('\n', '')
+                stripped=stripped.lower()
                 if "B-Ingredient" in token.annotation_layers["label"][0].value:
                     ingredList.append(stripped)
                 if "I-Ingredient" in token.annotation_layers["label"][0].value:
