@@ -40,3 +40,15 @@ class Extractor:
 
     def get_ingreds(self):
         return self.ingreds
+
+    def set_to_file(self, filename):
+        wr=open(filename, 'w')
+        for item in self.ingreds:
+            print(item)
+            wr.write(item+'\n')
+
+    def get_from_file(self, filename):
+        r=open(filename,'r')
+        for line in r:
+            line = line.replace('\n', '')
+            self.ingreds.add(line)
