@@ -44,7 +44,6 @@ class Extractor:
     def set_to_file(self, filename):
         wr=open(filename, 'w')
         for item in self.ingreds:
-            print(item)
             wr.write(item+'\n')
 
     def get_from_file(self, filename):
@@ -52,3 +51,8 @@ class Extractor:
         for line in r:
             line = line.replace('\n', '')
             self.ingreds.add(line)
+
+    def append_to_file(self, filename):
+        a=open(filename, 'a+')
+        for item in self.ingreds:
+            a.write(item+'\n')
