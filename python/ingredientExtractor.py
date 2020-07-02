@@ -2,6 +2,7 @@ from flair.data import Sentence
 from flair.models import SequenceTagger
 import glob
 import re
+import os
 
 class Extractor:
     def __init__(self, model, recipes):
@@ -25,9 +26,13 @@ class Extractor:
                 if "B-Ingredient" in token.annotation_layers["label"][0].value:
                     ingredList.append(stripped)
                 if "I-Ingredient" in token.annotation_layers["label"][0].value:
-                    ingredList[-1] = ingredList[-1] + ' ' + stripped
+                    if(len(ingredList)>0):
+                        ingredList[-1] = ingredList[-1] + ' ' + stripped
+                    else:
+                        ingredList.append(stripped)
         return ingredList
 
+    #for a single folder containing recipe files
     def compile_set(self):
         for filename in glob.glob(self.recipes + '/*.txt'):
             fr = open(filename, 'r')
@@ -37,6 +42,19 @@ class Extractor:
                 sub_list = self._find_ingredients(sentence)
                 for item in sub_list:
                     self.ingreds.add(item)
+
+    #For several sub-directories in one larger directory containing recipe files
+    def compile_set_deep(self):
+        for dir in os.walk(self.recipes):
+            for filename in glob.glob(dir[0] + '/*.txt'):
+                fr = open(filename, 'r')
+                for line in fr:
+                    sentence = Sentence(line)
+                    self.model.predict(sentence)
+                    sub_list = self._find_ingredients(sentence)
+                    for item in sub_list:
+                        self.ingreds.add(item)
+
 
     def get_ingreds(self):
         return self.ingreds
