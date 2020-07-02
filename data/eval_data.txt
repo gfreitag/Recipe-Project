@@ -1,0 +1,10277 @@
+Title	O
+:	O
+CRANBERRY	B-Title
+SAUCE	I-Title
+-	O
+FOR	O
+HOLIDAY	O
+MERINGUES	O
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+sauces	O
+,	O
+desserts	O
+
+Yield	O
+:	O
+2	O
+cups	O
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+2	B-Amount
+T	I-Amount
+cornstarch	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+8	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+2	B-Amount
+C	I-Amount
+cranberry	B-Ingredient
+juice	I-Ingredient
+cocktail	I-Ingredient
+
+1	B-Amount
+T	I-Amount
+lemon	B-Ingredient
+juice	I-Ingredient
+
+Combine	B-Action
+all	O
+ingredients	B-Group
+in	O
+a	O
+heavy	B-Condition
+saucepan	B-Tool
+;	O
+stir	B-Action
+well	O
+.	O
+
+Place	B-Action
+over	O
+
+medium	B-Temperature
+heat	I-Temperature
+,	O
+stirring	B-Action
+constantly	O
+,	O
+until	O
+mixture	B-Group
+comes	O
+to	O
+a	O
+boil	O
+.	O
+
+Boil	B-Action
+1	B-Time
+
+minute	B-Time
+;	O
+remove	B-Action
+from	O
+heat	O
+.	O
+
+Cover	B-Action
+and	O
+chill	B-Action
+thoroughly	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Eggnog	B-Title
+Cheesecake	I-Title
+-	O
+TKMhol	O
+
+Categories	O
+:	O
+Desserts	O
+,	O
+Holiday	O
+,	O
+Cheesecake	O
+
+Yield	O
+:	O
+1	O
+servings	O
+
+2	B-Amount
+ts	I-Amount
+Granulated	B-Ingredient
+sugar	I-Ingredient
+
+3	B-Amount
+ts	I-Amount
+Butter	B-Ingredient
+;	O
+melted	B-Condition
+
+Filling	O
+:	O
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+Cream	B-Ingredient
+cheese	I-Ingredient
+
+1	B-Amount
+c	I-Amount
+Granulated	B-Ingredient
+sugar	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+Whipping	B-Ingredient
+cream	I-Ingredient
+
+3	B-Amount
+ts	I-Amount
+Flour	B-Ingredient
+
+2	B-Amount
+ts	I-Amount
+Rum	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Nutmeg	B-Ingredient
+
+Chocolate	B-Ingredient
+cutouts	I-Ingredient
+
+Candies	B-Ingredient
+
+Combine	B-Action
+crumbs	B-Ingredient
+,	O
+sugar	B-Ingredient
+&	O
+butter	B-Ingredient
+;	O
+press	B-Action
+onto	O
+bottom	O
+of	O
+9	B-Condition
+-	I-Condition
+inch	I-Condition
+
+springform	B-Condition
+pan	B-Tool
+.	O
+
+Bake	B-Action
+in	O
+325	B-Temperature
+F	I-Temperature
+oven	B-Tool
+for	O
+10	B-Time
+mins	I-Time
+.	O
+
+Let	B-Action
+cool	O
+on	O
+rack	B-Tool
+.	O
+
+Filling	O
+:	O
+Beat	B-Action
+together	O
+cheese	B-Ingredient
+,	O
+sugar	B-Ingredient
+,	O
+cream	B-Ingredient
+&	O
+flour	B-Ingredient
+until	O
+smooth	B-Condition
+;	O
+
+beat	B-Action
+in	O
+eggs	B-Ingredient
+,	O
+rum	B-Ingredient
+&	O
+nutmeg	B-Ingredient
+.	O
+
+Pour	B-Action
+into	O
+crust	B-Group
+&	O
+bake	B-Action
+in	O
+425F	B-Temperature
+oven	B-Tool
+for	O
+
+10	B-Time
+mins	I-Time
+.	O
+
+Bake	B-Action
+in	O
+250F	B-Temperature
+oven	B-Tool
+for	O
+45	B-Time
+mins	I-Time
+.	O
+or	O
+until	O
+centre	O
+is	O
+barely	O
+
+firm	O
+to	O
+the	O
+touch	O
+.	O
+
+Loosen	B-Action
+cake	B-Group
+from	O
+rim	O
+;	O
+let	B-Action
+cool	O
+before	O
+removing	O
+
+sides	O
+.	O
+
+Garnish	B-Action
+with	O
+chocolate	B-Ingredient
+cutouts	I-Ingredient
+&	O
+candies	B-Ingredient
+.	O
+
+Source	O
+:	O
+R	O
+-	O
+Cuisine	O
+
+Eric	O
+Decker	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+GUACAMOLE	B-Title
+CHERRY	I-Title
+TOMATOES	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+appetizers	O
+,	O
+vegetables	O
+
+Yield	O
+:	O
+40	O
+appetizers	O
+
+1	B-Amount
+basket	I-Amount
+cherry	B-Ingredient
+tomatoes	I-Ingredient
+
+1	B-Amount
+lg	B-Condition
+ripe	I-Condition
+avocado	B-Ingredient
+
+4	B-Amount
+t	I-Amount
+lemon	B-Ingredient
+juice	I-Ingredient
+
+1	B-Amount
+T	I-Amount
+finely	B-Condition
+chopped	I-Condition
+onion	B-Ingredient
+
+1	B-Amount
+clove	I-Amount
+garlic	B-Ingredient
+,	O
+minced	B-Condition
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+6	B-Amount
+strips	I-Amount
+bacon	B-Ingredient
+,	O
+opt	O
+.	O
+
+Remove	B-Action
+stems	O
+from	O
+tomatoes	B-Ingredient
+.	O
+
+Cut	B-Action
+each	O
+in	O
+half	O
+crosswise	O
+.	O
+
+Scoop	B-Action
+out	O
+&	O
+
+discard	B-Action
+seed	O
+pockets	O
+.	O
+
+Lay	B-Action
+,	O
+cut	O
+side	O
+down	O
+,	O
+on	O
+paper	B-Tool
+towels	I-Tool
+for	O
+about	O
+30	B-Time
+
+minutes	B-Time
+.	O
+
+Peel	B-Action
+&	O
+remove	B-Action
+pit	O
+from	O
+avocado	B-Ingredient
+,	O
+In	O
+small	B-Condition
+bowl	B-Tool
+,	O
+mash	B-Action
+avocado	B-Ingredient
+coarsely	O
+
+with	O
+fork	B-Tool
+.	O
+
+Stir	B-Action
+in	O
+lemon	B-Ingredient
+juices	I-Ingredient
+finely	B-Condition
+chopped	I-Condition
+onion	B-Ingredient
+,	O
+garlic	B-Ingredient
+&	O
+salt	B-Ingredient
+
+until	O
+blended	B-Condition
+.	O
+
+With	O
+two	B-Amount
+spoons	B-Tool
+,	O
+pile	B-Action
+about	O
+1	B-Amount
+t	I-Amount
+of	O
+filling	B-Group
+into	O
+each	O
+tomato	B-Group
+half	I-Group
+.	O
+
+If	O
+
+made	O
+ahead	O
+,	O
+refrigerate	B-Action
+for	O
+up	O
+to	O
+4	B-Time
+hours	I-Time
+.	O
+
+If	O
+desired	O
+,	O
+cook	B-Action
+bacon	B-Ingredient
+in	O
+wide	B-Condition
+frying	B-Tool
+pan	I-Tool
+over	O
+medium	B-Temperature
+heat	I-Temperature
+until	O
+crisp	B-Condition
+;	O
+
+drain	B-Action
+;	O
+let	B-Action
+cool	O
+,	O
+then	O
+crumble	B-Action
+&	O
+sprinkle	B-Action
+over	O
+filled	B-Group
+tomatoes	I-Group
+.	O
+
+Di	O
+Note	O
+:	O
+A	O
+nice	O
+and	O
+easy	O
+appetizer	O
+for	O
+a	O
+New	O
+Year	O
+'	O
+s	O
+Eve	O
+party	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+POPPYSEED	B-Title
+STRUDEL	I-Title
+-	O
+Raisa	O
+Piotrowski	O
+'	O
+s	O
+Recipe	O
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+strudel	O
+
+Yield	O
+:	O
+2	O
+strudels	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Dough	O
+Ingredients	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+3	I-Amount
+/	I-Amount
+4	I-Amount
+lb	I-Amount
+flour	B-Ingredient
+(	O
+unbleached	B-Condition
+)	O
+
+6	B-Amount
+egg	B-Ingredient
+yolks	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+butter	B-Ingredient
+(	O
+sweet	B-Condition
+)	O
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+sugar	B-Ingredient
+
+2	B-Amount
+pk	I-Amount
+dry	B-Ingredient
+yeast	I-Ingredient
+or	O
+1	B-Amount
+/	I-Amount
+4	I-Amount
+lb	I-Amount
+fresh	B-Ingredient
+
+-	B-Ingredient
+yeast	I-Ingredient
+
+1	B-Amount
+C	I-Amount
+milk	B-Ingredient
+,	O
+warm	B-Temperature
+temperature	I-Temperature
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Filling	O
+Ingredients	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+3	B-Amount
+cn	I-Amount
+poppyseed	B-Ingredient
+filling	I-Ingredient
+
+3	B-Amount
+egg	B-Ingredient
+yolks	I-Ingredient
+
+2	B-Amount
+oz	I-Amount
+almond	B-Ingredient
+slivers	I-Ingredient
+
+4	B-Amount
+oz	I-Amount
+raisens	B-Ingredient
+
+4	B-Amount
+oz	I-Amount
+walnuts	B-Ingredient
+
+1	B-Amount
+T	I-Amount
+honey	B-Ingredient
+
+Dissolve	B-Action
+the	O
+yeast	B-Ingredient
+and	O
+1	B-Amount
+T	I-Amount
+of	O
+sugar	B-Ingredient
+in	O
+the	O
+warm	B-Condition
+milk	B-Ingredient
+,	O
+add	B-Action
+1	B-Amount
+T	I-Amount
+of	O
+flour	B-Ingredient
+.	O
+
+Let	B-Action
+the	O
+mixture	B-Group
+sit	O
+for	O
+about	O
+10	B-Time
+minutes	I-Time
+in	O
+a	O
+warm	B-Temperature
+place	O
+(	O
+bubbles	O
+will	O
+
+indicate	O
+active	O
+yeast	O
+)	O
+.	O
+
+Now	O
+add	B-Action
+slowly	O
+all	O
+above	O
+ingredients	B-Group
+and	O
+beat	B-Action
+,	O
+
+dough	B-Group
+should	O
+be	O
+soft	B-Condition
+,	O
+if	O
+necessary	O
+add	B-Action
+more	O
+warm	B-Condition
+milk	B-Ingredient
+.	O
+
+Lift	B-Action
+the	O
+dough	B-Group
+from	O
+the	O
+bowl	B-Tool
+and	O
+knead	B-Action
+on	O
+a	O
+floured	B-Condition
+board	B-Tool
+until	O
+blisters	O
+
+appear	O
+on	O
+the	O
+dough	O
+'	O
+s	O
+surface	O
+.	O
+
+Shape	B-Action
+the	O
+dough	B-Group
+into	O
+a	O
+ball	B-Group
+,	O
+return	B-Action
+it	O
+to	O
+
+the	O
+bowl	B-Tool
+,	O
+cover	B-Action
+with	O
+wax	B-Tool
+paper	I-Tool
+.	O
+
+Let	B-Action
+rise	O
+for	O
+one	B-Time
+hour	I-Time
+in	O
+a	O
+warm	B-Temperature
+place	O
+
+(	O
+100	B-Temperature
+'	O
+)	O
+.	O
+
+Now	O
+divide	B-Action
+the	O
+dough	B-Group
+in	O
+two	B-Amount
+balls	B-Group
+,	O
+roll	B-Action
+it	O
+out	O
+to	O
+about	O
+1	B-Condition
+finger	I-Condition
+
+thickness	B-Condition
+,	O
+spread	B-Action
+the	O
+poppyseed	B-Ingredient
+filling	I-Ingredient
+and	O
+roll	B-Action
+together	O
+.	O
+
+You	O
+will	O
+have	O
+
+2	B-Amount
+strudels	B-Group
+.	O
+
+Preheat	B-Action
+the	O
+over	B-Tool
+to	O
+325	B-Temperature
+'	O
+.	O
+
+Bake	B-Action
+1	B-Time
+hour	I-Time
+.	O
+
+Di	O
+Note	O
+:	O
+I	O
+worked	O
+with	O
+Raisa	O
+when	O
+I	O
+was	O
+with	O
+CBS	O
+.	O
+
+She	O
+had	O
+come	O
+over	O
+
+from	O
+Russia	O
+and	O
+she	O
+and	O
+I	O
+would	O
+chat	O
+on	O
+the	O
+phone	O
+(	O
+she	O
+lived	O
+in	O
+
+New	O
+York	O
+)	O
+.	O
+
+One	O
+day	O
+,	O
+I	O
+described	O
+this	O
+strudel	O
+thing	O
+and	O
+asked	O
+her	O
+
+if	O
+she	O
+knew	O
+what	O
+it	O
+was	O
+and	O
+she	O
+sent	O
+me	O
+her	O
+recipe	O
+.	O
+
+Very	O
+good	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+CAROLINA	B-Title
+DREAM	I-Title
+FROSTING	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+frosting	O
+,	O
+desserts	O
+,	O
+cakes	O
+
+Yield	O
+:	O
+5	O
+cups	O
+
+12	B-Amount
+egg	B-Ingredient
+yolks	I-Ingredient
+
+1	B-Amount
+3	I-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+bourbon	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+quartered	B-Condition
+candied	I-Condition
+cherries	B-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+chopped	B-Condition
+pecans	B-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+chopped	B-Condition
+seeded	I-Condition
+raisins	B-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+flaked	B-Condition
+coconut	B-Ingredient
+
+Combine	B-Action
+first	O
+4	B-Amount
+ingredients	B-Group
+in	O
+top	O
+of	O
+a	O
+double	B-Tool
+boiler	I-Tool
+;	O
+beat	B-Action
+at	O
+low	O
+speed	O
+
+on	O
+an	O
+electric	B-Tool
+mixer	I-Tool
+30	B-Time
+seconds	I-Time
+or	O
+just	O
+until	O
+blended	B-Condition
+.	O
+
+Bring	B-Action
+water	B-Ingredient
+to	O
+a	O
+
+boil	B-Condition
+;	O
+reduce	B-Action
+heat	O
+to	O
+low	B-Temperature
+,	O
+and	O
+cook	B-Action
+,	O
+stirring	B-Action
+constantly	O
+,	O
+until	O
+mixture	B-Group
+
+is	O
+slightly	O
+thickened	B-Condition
+(	O
+about	O
+20	B-Time
+minutes	I-Time
+)	O
+.	O
+
+Remove	B-Action
+from	O
+heat	O
+;	O
+add	B-Action
+
+bourbon	B-Ingredient
+,	O
+and	O
+beat	B-Action
+at	O
+low	O
+speed	O
+1	B-Time
+minute	I-Time
+.	O
+
+Combine	B-Action
+remaining	B-Condition
+ingredients	B-Group
+
+in	O
+a	O
+large	B-Condition
+bowl	B-Tool
+.	O
+
+Pour	B-Action
+egg	B-Group
+mixture	I-Group
+over	O
+fruit	B-Group
+-	I-Group
+nut	I-Group
+mixture	I-Group
+,	O
+mixing	B-Action
+well	O
+.	O
+
+Cool	B-Action
+completely	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+HOLIDAY	B-Title
+MERINGUES	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+desserts	O
+
+Yield	O
+:	O
+10	O
+servings	O
+
+3	B-Amount
+egg	B-Ingredient
+whites	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+cream	B-Ingredient
+of	I-Ingredient
+tartar	I-Ingredient
+
+1	B-Amount
+t	I-Amount
+vanilla	B-Ingredient
+extract	I-Ingredient
+
+1	B-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+1	B-Amount
+qt	I-Amount
+lime	B-Ingredient
+sherbet	I-Ingredient
+
+Cranberry	B-Ingredient
+Sauce	I-Ingredient
+
+-	O
+separate	O
+recipe	O
+
+Beat	B-Action
+egg	B-Ingredient
+whites	I-Ingredient
+(	O
+at	O
+room	B-Temperature
+temperature	I-Temperature
+)	O
+in	O
+a	O
+small	B-Condition
+bowl	B-Tool
+at	O
+high	O
+speed	O
+of	O
+
+an	O
+electric	B-Tool
+mixer	I-Tool
+until	O
+foamy	B-Condition
+;	O
+add	B-Action
+cream	B-Ingredient
+of	I-Ingredient
+tartar	I-Ingredient
+and	O
+vanilla	B-Ingredient
+,	O
+beating	B-Action
+
+until	O
+soft	O
+peaks	O
+form	O
+.	O
+
+Spoon	B-Action
+meringue	B-Group
+mixture	I-Group
+into	O
+10	B-Amount
+mounds	B-Group
+on	O
+a	O
+baking	B-Tool
+sheet	I-Tool
+lined	B-Condition
+with	O
+heavy	B-Condition
+
+brown	B-Tool
+paper	I-Tool
+.	O
+
+Shape	B-Action
+meringue	B-Group
+mixture	I-Group
+into	O
+circles	B-Group
+,	O
+using	O
+the	O
+back	O
+of	O
+a	O
+
+spoon	B-Tool
+to	O
+mound	B-Action
+the	O
+sides	O
+at	O
+least	O
+1	O
+/	O
+2	O
+inch	O
+higher	O
+than	O
+the	O
+centers	O
+.	O
+
+Bake	B-Action
+at	O
+225	B-Temperature
+for	O
+1	B-Time
+hour	I-Time
+.	O
+
+Turn	B-Action
+oven	B-Tool
+off	O
+,	O
+and	O
+let	B-Action
+meringues	B-Group
+cool	O
+
+completely	O
+before	O
+opening	O
+oven	B-Tool
+door	O
+.	O
+
+Transfer	B-Action
+meringues	B-Group
+to	O
+serving	B-Tool
+
+plates	B-Tool
+.	O
+
+Scoop	B-Action
+sherbet	B-Ingredient
+into	O
+shells	B-Group
+;	O
+top	B-Action
+with	O
+Cranberry	B-Ingredient
+Sauce	I-Ingredient
+,	O
+and	O
+serve	B-Action
+
+immediately	O
+.	O
+
+Di	O
+Note	O
+:	O
+A	O
+nice	O
+,	O
+light	O
+dessert	O
+after	O
+stuffing	O
+yourself	O
+<	O
+G	O
+>	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Thanksgiving	B-Title
+Turkey	I-Title
+Marinade	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+marinades	O
+,	O
+poultry	O
+,	O
+di	O
+,	O
+holidays	O
+
+Yield	O
+:	O
+1	O
+marinade	O
+
+See	O
+recipe	O
+
+Thaw	B-Action
+turkey	B-Ingredient
+(	O
+if	O
+frozen	B-Condition
+)	O
+on	O
+Monday	O
+&	O
+Tuesday	O
+in	O
+refrigerator	B-Tool
+.	O
+
+On	O
+Wednesday	O
+,	O
+put	B-Action
+3	B-Amount
+onions	B-Ingredient
+(	O
+cut	B-Condition
+up	I-Condition
+)	O
+,	O
+4	B-Amount
+garlic	B-Ingredient
+cloves	I-Ingredient
+(	O
+sliced	B-Condition
+)	O
+and	O
+1	B-Amount
+
+large	B-Amount
+bunch	I-Amount
+of	O
+parsley	B-Ingredient
+in	O
+cavity	O
+of	O
+bird	B-Ingredient
+.	O
+
+Pour	B-Action
+Vernors	B-Ingredient
+(	O
+ginger	O
+ale	O
+)	O
+and	O
+8	B-Amount
+oz	I-Amount
+orange	B-Ingredient
+juice	I-Ingredient
+concentrate	I-Ingredient
+in	O
+cavity	O
+.	O
+
+Cover	B-Action
+and	O
+rub	B-Action
+bird	B-Ingredient
+with	O
+Catalina	B-Ingredient
+dressing	I-Ingredient
+.	O
+
+Sprinkle	B-Action
+with	O
+seasoned	B-Ingredient
+
+salt	B-Ingredient
+and	O
+pepper	B-Ingredient
+and	O
+paprika	B-Ingredient
+.	O
+
+I	O
+put	O
+the	O
+whole	O
+mess	O
+in	O
+a	O
+garbage	O
+bag	O
+and	O
+
+marinate	B-Action
+it	O
+overnight	B-Time
+.	O
+
+Before	O
+baking	O
+,	O
+discard	B-Action
+all	O
+marinade	B-Group
+.	O
+
+Di	O
+Note	O
+:	O
+When	O
+I	O
+finally	O
+bought	O
+my	O
+house	O
+,	O
+I	O
+wanted	O
+to	O
+have	O
+Thanksgiving	O
+
+here	O
+instead	O
+of	O
+at	O
+my	O
+mother	O
+'	O
+s	O
+(	O
+which	O
+was	O
+traditional	O
+)	O
+.	O
+
+I	O
+had	O
+NEVER	O
+
+done	O
+a	O
+turkey	O
+before	O
+.	O
+
+I	O
+bought	O
+this	O
+HUGE	O
+creature	O
+and	O
+started	O
+to	O
+
+do	O
+the	O
+marinade	O
+thing	O
+(	O
+my	O
+Mom	O
+'	O
+s	O
+recipe	O
+)	O
+.	O
+
+Well	O
+,	O
+I	O
+don	O
+'	O
+t	O
+have	O
+much	O
+
+counter	O
+space	O
+and	O
+this	O
+bird	O
+was	O
+a	O
+slipping	O
+an	O
+'	O
+sliding	O
+all	O
+over	O
+the	O
+
+place	O
+and	O
+I	O
+was	O
+laughing	O
+hysterically	O
+.	O
+
+I	O
+was	O
+actually	O
+fighting	O
+this	O
+
+monster	O
+!	O
+
+My	O
+Mom	O
+called	O
+to	O
+see	O
+how	O
+everything	O
+was	O
+going	O
+and	O
+all	O
+she	O
+
+could	O
+hear	O
+was	O
+me	O
+cackeling	O
+.	O
+
+She	O
+jumped	O
+in	O
+her	O
+car	O
+and	O
+came	O
+over	O
+and	O
+
+here	O
+I	O
+was	O
+,	O
+on	O
+the	O
+floor	O
+with	O
+this	O
+damn	O
+bird	O
+in	O
+my	O
+lap	O
+and	O
+marinade	O
+
+all	O
+over	O
+me	O
+.	O
+
+It	O
+was	O
+one	O
+of	O
+those	O
+moments	O
+.	O
+.	O
+.	O
+great	O
+marinade	O
+tho	O
+!	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+
+-DOCSTART- -X- -X- O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+
+I	O
+have	O
+a	O
+friend	O
+who	O
+,	O
+in	O
+the	O
+spirit	O
+of	O
+one	O
+-	O
+ups	O
+-	O
+woman	O
+-	O
+ship	O
+,	O
+claims	O
+to	O
+
+make	O
+her	O
+pumpkin	O
+pie	O
+not	O
+only	O
+with	O
+squash	O
+,	O
+but	O
+also	O
+with	O
+sweet	O
+
+potato	O
+.	O
+
+I	O
+'	O
+ve	O
+had	O
+it	O
+and	O
+it	O
+'	O
+s	O
+excellent	O
+,	O
+but	O
+I	O
+'	O
+ve	O
+never	O
+actually	O
+
+seen	O
+her	O
+make	O
+it	O
+.	O
+
+Title	O
+:	O
+Pumpkin	B-Title
+-	I-Title
+Squash	I-Title
+Pie	I-Title
+-	O
+NSVhol	O
+
+Categories	O
+:	O
+Pies	O
+,	O
+Vegetables	O
+,	O
+Desserts	O
+,	O
+Nsv	O
+
+Yield	O
+:	O
+1	O
+pie	O
+
+1	B-Amount
+9	B-Condition
+inch	I-Condition
+pie	B-Ingredient
+crust	I-Ingredient
+;	O
+unbaked	B-Condition
+
+3	B-Amount
+Eggs	B-Ingredient
+;	O
+separated	B-Condition
+
+1	B-Amount
+c	I-Amount
+Pumpkin	B-Ingredient
+;	O
+cooked	B-Condition
+
+1	B-Amount
+c	I-Amount
+Butternut	B-Ingredient
+squash	I-Ingredient
+;	O
+cooked	B-Condition
+
+1	B-Amount
+c	I-Amount
+Sugar	B-Ingredient
+
+1	B-Amount
+c	I-Amount
+Sour	B-Ingredient
+cream	I-Ingredient
+
+1	B-Amount
+ts	I-Amount
+Cinnamon	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Ground	B-Condition
+ginger	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+ts	I-Amount
+Ground	B-Condition
+nutmeg	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+ts	I-Amount
+Ground	B-Condition
+cloves	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+ts	I-Amount
+Salt	B-Ingredient
+
+Whipping	B-Ingredient
+or	O
+heavy	B-Ingredient
+cream	I-Ingredient
+,	O
+
+-	O
+whipped	B-Condition
+
+Preheat	B-Action
+oven	B-Tool
+to	O
+450F	B-Temperature
+.	O
+
+In	O
+small	B-Condition
+bowl	B-Tool
+,	O
+with	O
+mixer	B-Tool
+at	O
+high	O
+speed	O
+,	O
+beat	B-Action
+egg	B-Ingredient
+
+whites	B-Ingredient
+just	O
+until	O
+soft	O
+peaks	O
+form	O
+.	O
+
+In	O
+large	B-Condition
+bowl	B-Tool
+,	O
+with	O
+same	B-Condition
+beaters	B-Tool
+and	O
+
+with	O
+mixer	B-Tool
+at	O
+low	O
+speed	O
+,	O
+beat	B-Action
+pumpkin	B-Ingredient
+with	O
+egg	B-Ingredient
+yolks	I-Ingredient
+and	O
+the	O
+remaining	B-Condition
+
+ingredients	B-Group
+,	O
+except	O
+cream	B-Ingredient
+,	O
+until	O
+well	B-Condition
+blended	I-Condition
+.	O
+
+With	O
+wire	B-Tool
+whisk	I-Tool
+or	O
+
+rubber	B-Tool
+spatula	I-Tool
+,	O
+gently	O
+fold	B-Action
+egg	B-Ingredient
+whites	I-Ingredient
+into	O
+pumpkin	B-Group
+mixture	I-Group
+.	O
+
+Place	B-Action
+pie	B-Tool
+plate	I-Tool
+on	O
+oven	B-Tool
+rack	I-Tool
+;	O
+pour	B-Action
+pumpkin	B-Group
+mixture	I-Group
+into	O
+pie	B-Ingredient
+crust	I-Ingredient
+.	O
+
+Bake	B-Action
+
+10	B-Time
+minutes	I-Time
+;	O
+turn	B-Action
+oven	B-Tool
+control	O
+to	O
+350F	B-Temperature
+and	O
+bake	B-Action
+pie	B-Group
+one	B-Time
+hour	I-Time
+and	I-Time
+5	I-Time
+
+minutes	B-Time
+more	O
+or	O
+until	O
+filling	B-Group
+is	O
+set	B-Condition
+.	O
+
+Refrigerate	B-Action
+.	O
+
+To	O
+serve	O
+,	O
+pipe	B-Action
+with	O
+whipped	B-Ingredient
+cream	I-Ingredient
+or	O
+serve	B-Action
+whipped	B-Ingredient
+cream	I-Ingredient
+separately	O
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+CARAMEL	B-Title
+-	I-Title
+FILLED	I-Title
+BUTTER	I-Title
+PECAN	I-Title
+CAKE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+desserts	O
+,	O
+cakes	O
+
+Yield	O
+:	O
+1	O
+cake	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Cake	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+C	I-Amount
+shortening	B-Ingredient
+
+2	B-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+4	B-Amount
+eggs	B-Ingredient
+
+3	B-Amount
+C	I-Amount
+sifted	B-Condition
+cake	B-Ingredient
+flour	I-Ingredient
+
+2	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+baking	B-Ingredient
+powder	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+1	B-Amount
+C	I-Amount
+milk	B-Ingredient
+
+1	B-Amount
+t	I-Amount
+almond	B-Ingredient
+extract	I-Ingredient
+
+1	B-Amount
+t	I-Amount
+vanilla	B-Ingredient
+extract	I-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Caramel	O
+Filling	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+3	B-Amount
+C	I-Amount
+sugar	B-Ingredient
+,	O
+divided	B-Condition
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+milk	B-Ingredient
+
+1	B-Amount
+egg	B-Ingredient
+,	O
+beaten	B-Condition
+
+Pinch	B-Amount
+of	O
+salt	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+,	O
+
+-	O
+cut	B-Condition
+up	I-Condition
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Buttercream	O
+Frosting	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+/	I-Amount
+3	I-Amount
+C	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+,	O
+
+-	O
+softened	B-Condition
+
+3	B-Amount
+C	I-Amount
+sifted	B-Condition
+powdered	B-Ingredient
+sugar	I-Ingredient
+
+2	B-Amount
+T	I-Amount
+to	O
+3	B-Amount
+T	I-Amount
+half	B-Ingredient
+and	I-Ingredient
+half	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+vanilla	B-Ingredient
+extract	I-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Garnish	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+C	I-Amount
+chopped	B-Condition
+pecans	B-Ingredient
+
+Pecan	B-Ingredient
+halves	I-Ingredient
+
+Cream	B-Action
+shortening	B-Ingredient
+;	O
+gradually	O
+add	B-Action
+sugar	B-Ingredient
+,	O
+beating	B-Action
+well	O
+at	O
+medium	O
+speed	O
+
+of	O
+an	O
+electric	B-Tool
+mixer	I-Tool
+.	O
+
+Add	B-Action
+eggs	B-Ingredient
+,	O
+one	O
+at	O
+a	O
+time	O
+,	O
+beating	B-Action
+well	O
+after	O
+
+each	O
+addition	O
+.	O
+
+Combine	B-Action
+flour	B-Ingredient
+,	O
+baking	B-Ingredient
+powder	I-Ingredient
+,	O
+and	O
+salt	B-Ingredient
+;	O
+add	B-Action
+to	O
+creamed	B-Group
+mixture	I-Group
+
+alternately	O
+with	O
+milk	B-Ingredient
+,	O
+beginning	O
+and	O
+ending	O
+with	O
+flour	B-Group
+mixture	I-Group
+.	O
+
+Mix	B-Action
+
+after	O
+each	O
+addition	O
+.	O
+
+Stir	B-Action
+in	O
+flavorings	B-Group
+.	O
+
+Grease	B-Action
+three	B-Amount
+9	B-Condition
+-	I-Condition
+inch	I-Condition
+round	I-Condition
+cakepans	B-Tool
+,	O
+and	O
+line	B-Action
+with	O
+wax	B-Tool
+paper	I-Tool
+;	O
+grease	B-Action
+
+wax	B-Tool
+paper	I-Tool
+.	O
+
+Pour	B-Action
+batter	B-Group
+into	O
+prepared	B-Condition
+pans	B-Tool
+;	O
+bake	B-Action
+at	O
+375	B-Temperature
+for	O
+22	B-Time
+to	I-Time
+25	I-Time
+
+minutes	B-Time
+or	O
+until	O
+a	O
+wooden	B-Tool
+pick	I-Tool
+inserted	O
+in	O
+center	O
+comes	O
+out	O
+clean	B-Condition
+.	O
+
+Cool	B-Action
+in	O
+pans	B-Tool
+10	B-Time
+minutes	I-Time
+;	O
+remove	B-Action
+from	O
+pans	B-Tool
+,	O
+and	O
+let	B-Action
+cool	O
+completely	O
+on	O
+
+wire	B-Tool
+racks	I-Tool
+.	O
+
+Spread	B-Action
+Caramel	B-Group
+Filling	I-Group
+between	O
+layers	O
+and	O
+on	O
+top	O
+of	O
+
+cake	B-Group
+.	O
+
+Spread	B-Action
+Buttercream	B-Group
+Frosting	I-Group
+on	O
+sides	O
+of	O
+cake	B-Group
+.	O
+
+Press	B-Action
+chopped	B-Condition
+
+pecans	B-Ingredient
+into	O
+frosting	B-Group
+on	O
+sides	O
+of	O
+cake	B-Group
+.	O
+
+Garnish	B-Action
+top	O
+with	O
+pecan	B-Ingredient
+
+halves	B-Ingredient
+.	O
+
+Yield	O
+:	O
+one	O
+3	O
+layer	O
+cake	O
+.	O
+
+CARAMEL	O
+FILLING	O
+:	O
+
+Sprinkle	B-Action
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+in	O
+a	O
+heavy	B-Condition
+saucepan	B-Tool
+;	O
+place	B-Action
+over	O
+medium	B-Temperature
+heat	I-Temperature
+.	O
+
+Cook	B-Action
+,	O
+stirring	B-Action
+constantly	O
+,	O
+until	O
+sugar	B-Ingredient
+melts	O
+and	O
+syrup	B-Group
+is	O
+light	B-Condition
+
+golden	B-Condition
+brown	I-Condition
+.	O
+
+Combine	B-Action
+remaining	O
+2	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+,	O
+milk	B-Ingredient
+,	O
+egg	B-Ingredient
+,	O
+and	O
+salt	B-Ingredient
+in	O
+a	O
+bowl	B-Tool
+,	O
+
+stirring	B-Action
+well	O
+;	O
+stir	B-Action
+in	O
+butter	B-Ingredient
+.	O
+
+Stir	B-Action
+butter	B-Group
+mixture	I-Group
+into	O
+hot	B-Condition
+caramelized	I-Condition
+
+sugar	B-Ingredient
+.	O
+
+(	O
+The	O
+mixture	B-Group
+will	O
+tend	O
+to	O
+lump	O
+,	O
+becoming	O
+smooth	O
+with	O
+further	O
+
+cooking	O
+.	O
+)	O
+
+Cook	B-Action
+over	O
+medium	B-Temperature
+heat	I-Temperature
+,	O
+stirring	B-Action
+frequently	O
+,	O
+until	O
+a	O
+candy	B-Tool
+thermometer	I-Tool
+
+registers	O
+230	B-Temperature
+(	O
+15	B-Time
+to	I-Time
+20	I-Time
+minutes	I-Time
+)	O
+.	O
+
+Cool	B-Action
+5	B-Time
+minutes	I-Time
+.	O
+
+Beat	B-Action
+with	O
+a	O
+wooden	B-Tool
+
+spoon	B-Tool
+to	O
+almost	O
+spreading	O
+consistency	O
+,	O
+and	O
+spread	B-Action
+between	O
+layers	O
+and	O
+on	O
+
+top	O
+of	O
+cake	B-Group
+.	O
+
+Yield	O
+:	O
+about	O
+2	O
+1	O
+/	O
+2	O
+C	O
+.	O
+
+BUTTERCREAN	O
+FROSTING	O
+:	O
+
+Cream	B-Action
+butter	B-Ingredient
+at	O
+medium	O
+speed	O
+of	O
+an	O
+electric	B-Tool
+mixer	I-Tool
+;	O
+gradually	O
+add	B-Action
+sugar	B-Ingredient
+
+alternately	O
+with	O
+half	B-Ingredient
+and	I-Ingredient
+half	I-Ingredient
+,	O
+beating	B-Action
+until	O
+light	B-Condition
+and	O
+fluffy	B-Condition
+.	O
+
+Stir	B-Action
+in	O
+
+vanilla	B-Ingredient
+.	O
+
+Yield	O
+:	O
+about	O
+1	O
+1	O
+/	O
+2	O
+C	O
+.	O
+
+Di	O
+Note	O
+:	O
+A	O
+lotta	O
+work	O
+but	O
+a	O
+wonderful	O
+cake	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Gaastesteg	B-Title
+med	I-Title
+Aebler	I-Title
+og	I-Title
+Svedsker	I-Title
+(	O
+Goose	O
+w	O
+/	O
+Apples	O
+&	O
+Prunes	O
+)	O
+
+Categories	O
+:	O
+Danish	O
+,	O
+Poultry	O
+,	O
+Main	O
+dish	O
+,	O
+Fruits	O
+
+Yield	O
+:	O
+10	O
+servings	O
+
+8	B-Amount
+lb	I-Amount
+Young	B-Condition
+goose	B-Ingredient
+(	O
+to	O
+10	B-Condition
+lb	I-Condition
+)	O
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+Lemon	B-Ingredient
+
+Salt	B-Ingredient
+&	O
+fresh	B-Condition
+ground	I-Condition
+pepper	B-Ingredient
+
+2	B-Amount
+c	I-Amount
+Apples	B-Ingredient
+;	O
+peeled	B-Condition
+,	O
+cored	B-Condition
+and	O
+
+-	O
+coarsely	B-Condition
+chopped	I-Condition
+
+2	B-Amount
+c	I-Amount
+Dried	B-Condition
+prunes	B-Ingredient
+;	O
+presoaked	B-Condition
+,	O
+
+-	O
+pitted	B-Condition
+and	O
+coarsely	B-Condition
+chopped	I-Condition
+
+1	B-Amount
+lg	B-Condition
+Onion	B-Ingredient
+;	O
+peeled	B-Condition
+&	O
+quartered	B-Condition
+
+Preheat	B-Action
+oven	B-Tool
+to	O
+325	B-Temperature
+ø	I-Temperature
+F	I-Temperature
+.	O
+
+To	O
+prepare	O
+this	O
+classic	O
+Danish	O
+Christmas	O
+dish	O
+,	O
+first	O
+wash	B-Action
+the	O
+goose	B-Ingredient
+
+under	O
+cold	O
+running	O
+water	O
+.	O
+
+Pat	B-Action
+it	O
+thoroughly	O
+dry	O
+with	O
+paper	B-Tool
+towels	I-Tool
+and	O
+
+rub	B-Action
+inside	O
+and	O
+out	O
+with	O
+lemon	B-Ingredient
+.	O
+
+Lightly	O
+salt	B-Action
+and	O
+pepper	B-Action
+the	O
+inside	O
+and	O
+
+stuff	B-Action
+the	O
+cavity	O
+with	O
+the	O
+coarsely	B-Condition
+chopped	I-Condition
+apples	B-Ingredient
+,	O
+prunes	B-Ingredient
+and	O
+onion	B-Ingredient
+
+quarters	B-Ingredient
+.	O
+
+Close	B-Action
+by	O
+lacing	B-Action
+skewers	B-Tool
+or	O
+by	O
+sewing	B-Action
+with	O
+heavy	B-Condition
+white	I-Condition
+thread	B-Tool
+.	O
+
+Fasten	B-Action
+the	O
+neck	O
+skin	O
+to	O
+the	O
+back	O
+of	O
+the	O
+goose	B-Ingredient
+with	O
+a	O
+skewer	B-Tool
+and	O
+truss	B-Action
+
+the	O
+bird	B-Ingredient
+securely	O
+so	O
+that	O
+it	O
+will	O
+keep	O
+it	O
+'	O
+s	O
+shape	O
+while	O
+cooking	O
+.	O
+
+Roast	B-Action
+goose	B-Ingredient
+on	O
+a	O
+rack	B-Tool
+set	O
+in	O
+a	O
+shallow	B-Condition
+open	I-Condition
+pan	B-Tool
+for	O
+3	B-Time
+to	I-Time
+3	I-Time
+1	I-Time
+/	I-Time
+2	I-Time
+hours	I-Time
+
+(	O
+about	O
+20	B-Time
+to	I-Time
+25	I-Time
+minutes	I-Time
+per	O
+pound	O
+)	O
+.	O
+
+As	O
+the	O
+goose	B-Ingredient
+fat	O
+accumulates	O
+in	O
+the	O
+
+pan	B-Tool
+,	O
+draw	B-Action
+it	O
+off	O
+with	O
+a	O
+bulb	B-Tool
+baster	I-Tool
+or	O
+large	B-Condition
+kitchen	B-Tool
+spoon	I-Tool
+.	O
+
+Basting	O
+the	O
+
+goose	B-Ingredient
+itself	O
+is	O
+unnecessary	O
+.	O
+
+To	O
+test	O
+whether	O
+the	O
+bird	B-Ingredient
+is	O
+done	O
+,	O
+pierce	B-Action
+the	O
+thigh	O
+with	O
+the	O
+tip	O
+of	O
+a	O
+
+small	B-Condition
+sharp	I-Condition
+knife	B-Tool
+.	O
+
+If	O
+the	O
+juice	O
+that	O
+runs	O
+out	O
+is	O
+still	O
+somewhat	O
+pink	O
+,	O
+
+roast	B-Action
+another	O
+5	B-Time
+to	I-Time
+10	I-Time
+minutes	I-Time
+or	O
+until	O
+juices	O
+run	O
+clear	B-Condition
+or	O
+pale	B-Condition
+yellow	I-Condition
+.	O
+
+When	O
+done	O
+,	O
+turn	B-Action
+off	O
+oven	B-Tool
+leaving	O
+the	O
+finished	O
+bird	B-Ingredient
+to	O
+set	O
+with	O
+the	O
+door	O
+
+ajar	O
+for	O
+15	B-Time
+minutes	I-Time
+to	O
+make	O
+it	O
+easier	O
+to	O
+carve	O
+.	O
+
+Transfer	B-Action
+the	O
+goose	B-Ingredient
+to	O
+a	O
+large	B-Condition
+heated	I-Condition
+platter	B-Tool
+and	O
+remove	B-Action
+the	O
+string	B-Tool
+and	O
+
+skewers	B-Tool
+.	O
+
+Scoop	B-Action
+out	O
+the	O
+stuffing	B-Group
+and	O
+discard	B-Action
+it	O
+.	O
+
+The	O
+fruits	B-Group
+and	O
+onion	B-Ingredient
+
+will	O
+have	O
+imparted	O
+their	O
+flavor	O
+to	O
+the	O
+goose	B-Ingredient
+but	O
+will	O
+be	O
+far	O
+too	O
+fatty	O
+
+to	O
+serve	O
+.	O
+
+Traditionally	O
+,	O
+poached	O
+apples	O
+stuffed	O
+with	O
+prunes	O
+(	O
+see	O
+recipe	O
+)	O
+are	O
+
+served	O
+with	O
+the	O
+Christmas	O
+goose	O
+.	O
+
+Red	O
+cabbage	O
+and	O
+carmelized	O
+potatoes	O
+
+(	O
+see	O
+recipes	O
+)	O
+complete	O
+the	O
+Christmas	O
+menu	O
+in	O
+Denmark	O
+.	O
+
+Serves	O
+8	O
+to	O
+10	O
+
+Source	O
+:	O
+Time	O
+/	O
+Life	O
+Foods	O
+of	O
+the	O
+World	O
+,	O
+
+Recipes	O
+:	O
+The	O
+Cooking	O
+of	O
+Scandinavia	O
+(	O
+1968	O
+)	O
+
+Typos	O
+by	O
+.	O
+\	O
+\	O
+ichele	O
+
+.	O
+\	O
+\	O
+ichele	O
+'	O
+s	O
+notes	O
+:	O
+My	O
+husband	O
+,	O
+Peter	O
+,	O
+made	O
+this	O
+dish	O
+for	O
+our	O
+1993	O
+
+Christmas	O
+dinner	O
+.	O
+
+The	O
+only	O
+changes	O
+made	O
+were	O
+in	O
+the	O
+cooking	O
+process	O
+.	O
+
+A	O
+
+newer	O
+,	O
+better	O
+method	O
+now	O
+calls	O
+for	O
+pricking	O
+the	O
+skin	O
+of	O
+the	O
+bird	O
+in	O
+
+several	O
+places	O
+and	O
+starting	O
+the	O
+cooking	O
+with	O
+the	O
+bird	O
+breast	O
+side	O
+down	O
+.	O
+
+This	O
+allows	O
+for	O
+the	O
+most	O
+fat	O
+to	O
+run	O
+clear	O
+.	O
+
+And	O
+there	O
+'	O
+s	O
+ALOT	O
+of	O
+it	O
+.	O
+
+Our	O
+8	O
+
+lb	O
+bird	O
+yielded	O
+over	O
+5	O
+cups	O
+of	O
+fat	O
+!	O
+
+When	O
+cooking	O
+is	O
+halfway	O
+done	O
+,	O
+turn	O
+
+the	O
+bird	O
+over	O
+and	O
+continue	O
+cooking	O
+until	O
+the	O
+juices	O
+run	O
+clear	O
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+CAROLINA	B-Title
+DREAM	I-Title
+CAKE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+desserts	O
+,	O
+cakes	O
+
+Yield	O
+:	O
+1	O
+cake	O
+
+1	B-Amount
+C	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+,	O
+
+-	O
+softened	B-Condition
+
+2	B-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+1	B-Amount
+t	I-Amount
+vanilla	B-Ingredient
+extract	I-Ingredient
+
+3	B-Amount
+1	I-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+sifted	B-Condition
+all	B-Ingredient
+-	I-Ingredient
+purpose	I-Ingredient
+flour	I-Ingredient
+
+3	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+baking	B-Ingredient
+powder	I-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+1	B-Amount
+C	I-Amount
+milk	B-Ingredient
+
+8	B-Amount
+egg	B-Ingredient
+whites	I-Ingredient
+
+Carolina	B-Ingredient
+Dream	I-Ingredient
+Frosting	I-Ingredient
+
+-	O
+Separate	O
+recipe	O
+
+Cream	B-Action
+butter	B-Ingredient
+;	O
+gradually	O
+add	B-Action
+sugar	B-Ingredient
+,	O
+beating	B-Action
+well	O
+at	O
+medium	O
+speed	O
+of	O
+an	O
+
+electric	B-Tool
+mixer	I-Tool
+.	O
+
+Add	B-Action
+vanilla	B-Ingredient
+,	O
+mixing	B-Action
+well	O
+.	O
+
+Combine	B-Action
+flour	B-Ingredient
+,	O
+baking	B-Ingredient
+powder	I-Ingredient
+,	O
+and	O
+salt	B-Ingredient
+;	O
+add	B-Action
+to	O
+creamed	B-Group
+mixture	I-Group
+
+alternately	O
+with	O
+milk	B-Ingredient
+,	O
+beginning	O
+and	O
+ending	O
+with	O
+flour	B-Group
+mixture	I-Group
+.	O
+
+Mix	B-Action
+
+well	O
+after	O
+each	O
+addition	O
+.	O
+
+Beat	B-Action
+egg	B-Ingredient
+whites	I-Ingredient
+(	O
+at	O
+room	B-Temperature
+temperature	I-Temperature
+)	O
+until	O
+stiff	O
+peaks	O
+form	O
+;	O
+fold	B-Action
+
+whites	B-Ingredient
+into	O
+batter	B-Group
+.	O
+
+Grease	B-Action
+three	B-Amount
+9	B-Condition
+-	I-Condition
+inch	I-Condition
+round	I-Condition
+cake	B-Tool
+pans	I-Tool
+,	O
+and	O
+line	B-Action
+with	O
+wax	B-Tool
+paper	I-Tool
+;	O
+grease	B-Action
+wax	B-Tool
+
+paper	B-Tool
+.	O
+
+Pour	B-Action
+batter	B-Group
+into	O
+prepared	B-Condition
+pans	B-Tool
+;	O
+bake	B-Action
+at	O
+350	B-Temperature
+for	O
+18	B-Time
+to	I-Time
+20	I-Time
+minutes	I-Time
+
+or	O
+until	O
+a	O
+wooden	B-Tool
+pick	I-Tool
+inserted	O
+in	O
+center	O
+comes	O
+out	O
+clean	B-Condition
+.	O
+
+Cool	B-Action
+in	O
+pans	B-Tool
+
+10	B-Time
+minutes	I-Time
+;	O
+remove	B-Action
+from	O
+pans	B-Tool
+,	O
+and	O
+let	B-Action
+cool	O
+completely	O
+on	O
+wire	B-Tool
+racks	I-Tool
+.	O
+
+Spread	B-Action
+Carolina	B-Ingredient
+Dream	I-Ingredient
+Frosting	I-Ingredient
+between	O
+layers	O
+and	O
+on	O
+top	O
+and	O
+sides	O
+of	O
+
+cake	B-Group
+.	O
+
+Yield	O
+:	O
+one	O
+3	O
+-	O
+layer	O
+cake	O
+.	O
+
+Di	O
+Note	O
+:	O
+A	O
+very	O
+elegant	O
+cake	O
+that	O
+I	O
+use	O
+around	O
+the	O
+holidays	O
+,	O
+last	O
+
+used	O
+at	O
+a	O
+dinner	O
+party	O
+for	O
+12	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+MMMMM	O
+-	O
+-	O
+-	O
+-	O
+-	O
+Recipe	O
+via	O
+Meal	O
+-	O
+Master	O
+(	O
+tm	O
+)	O
+v8	O
+.	O
+00	O
+
+Title	O
+:	O
+Real	B-Title
+Texas	I-Title
+Chili	I-Title
+-	O
+TKMhol	O
+
+Categories	O
+:	O
+Chili	O
+,	O
+Beef	O
+,	O
+Spicy	O
+,	O
+Main	O
+dish	O
+,	O
+Marions	O
+own	O
+
+Yield	O
+:	O
+6	O
+servings	O
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+Cubed	B-Condition
+Chuck	B-Ingredient
+Steak	I-Ingredient
+
+2	B-Amount
+lb	I-Amount
+Raw	B-Condition
+Tomatoes	B-Ingredient
+
+2	B-Amount
+ea	I-Amount
+Medium	B-Condition
+Onions	B-Ingredient
+
+1	B-Amount
+ea	I-Amount
+Green	B-Ingredient
+Bell	I-Ingredient
+Pepper	I-Ingredient
+
+2	B-Amount
+ea	I-Amount
+Medium	B-Condition
+Jalapeno	B-Ingredient
+Peppers	I-Ingredient
+
+4	B-Amount
+tb	I-Amount
+Vegtable	B-Ingredient
+oil	I-Ingredient
+
+1	B-Amount
+ts	I-Amount
+Salt	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Black	B-Ingredient
+pepper	I-Ingredient
+
+4	B-Amount
+tb	I-Amount
+Chili	B-Ingredient
+Powder	I-Ingredient
+
+In	O
+a	O
+food	B-Tool
+processor	I-Tool
+or	O
+by	O
+hand	O
+dice	B-Action
+the	O
+Onions	B-Ingredient
+,	O
+Bell	B-Ingredient
+Pepper	I-Ingredient
+and	O
+the	O
+
+Jalapeno	B-Ingredient
+peppers	I-Ingredient
+and	O
+set	B-Action
+aside	O
+.	O
+
+Cut	B-Action
+Chuck	B-Ingredient
+Steak	I-Ingredient
+in	O
+1	B-Condition
+/	I-Condition
+2	I-Condition
+inch	I-Condition
+Cubes	B-Group
+or	O
+
+smaller	O
+and	O
+set	B-Action
+aside	O
+.	O
+
+Cut	B-Action
+tomatoes	B-Ingredient
+into	O
+pieces	B-Group
+and	O
+set	B-Action
+aside	O
+.	O
+
+Heat	B-Action
+
+Vegtable	B-Ingredient
+oil	I-Ingredient
+in	O
+an	O
+8	B-Condition
+quart	I-Condition
+Sauce	B-Tool
+Pan	I-Tool
+and	O
+add	B-Action
+the	O
+diced	B-Condition
+Onions	B-Ingredient
+,	O
+Bell	B-Ingredient
+
+Pepper	B-Ingredient
+and	O
+Jalapenos	B-Ingredient
+,	O
+saute	B-Action
+till	O
+browned	B-Condition
+.	O
+
+Add	B-Action
+the	O
+Cubed	B-Condition
+Chuck	B-Ingredient
+Steak	I-Ingredient
+
+and	O
+sear	B-Action
+untill	O
+Browned	B-Condition
+,	O
+add	B-Action
+Tomatoes	B-Ingredient
+and	O
+spices	B-Group
+.	O
+
+Cover	B-Action
+and	O
+simmer	B-Action
+
+untill	O
+Tomatoes	B-Ingredient
+are	O
+cooked	B-Condition
+down	I-Condition
+.	O
+
+This	O
+will	O
+feed	O
+about	O
+6	O
+people	O
+as	O
+a	O
+meat	O
+dish	O
+.	O
+.	O
+.	O
+.	O
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Pfeffernusse	B-Title
+(	I-Title
+pepper	I-Title
+Balls	I-Title
+)	I-Title
+-	O
+TKMhol	O
+
+Categories	O
+:	O
+German	O
+,	O
+Cookies	O
+,	O
+Holiday	O
+
+Yield	O
+:	O
+12	O
+servings	O
+
+4	B-Amount
+c	I-Amount
+Flour	B-Ingredient
+;	O
+Unbleached	B-Condition
+,	O
+Unsifted	B-Condition
+
+1	B-Amount
+ts	I-Amount
+Cinnamon	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Mace	B-Ingredient
+
+Black	B-Ingredient
+Pepper	I-Ingredient
+;	O
+As	O
+Desired	O
+
+2	B-Amount
+tb	I-Amount
+Butter	B-Ingredient
+;	O
+(	O
+No	O
+Margarine	O
+)	O
+
+1	B-Amount
+c	I-Amount
+Confectioners	B-Ingredient
+'	I-Ingredient
+Sugar	I-Ingredient
+
+;	O
+Water	B-Ingredient
+
+1	B-Amount
+ts	I-Amount
+Baking	B-Ingredient
+Powder	I-Ingredient
+
+1	B-Amount
+ts	I-Amount
+Cloves	B-Ingredient
+;	O
+Ground	B-Condition
+
+1	B-Amount
+ts	I-Amount
+Allspice	B-Ingredient
+;	O
+Ground	B-Condition
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+Honey	B-Ingredient
+
+2	B-Amount
+Eggs	B-Ingredient
+;	O
+Large	B-Condition
+
+1	B-Amount
+ts	I-Amount
+Vanilla	B-Ingredient
+
+Sift	B-Action
+flour	B-Ingredient
+,	O
+baking	B-Ingredient
+powder	I-Ingredient
+and	O
+spices	B-Group
+together	O
+.	O
+
+Heat	B-Action
+honey	B-Ingredient
+and	O
+butter	B-Ingredient
+
+until	O
+butter	B-Ingredient
+melts	O
+.	O
+
+Cool	B-Action
+to	O
+lukewarm	B-Temperature
+and	O
+beat	B-Action
+in	O
+eggs	B-Ingredient
+.	O
+
+Add	B-Action
+flour	B-Group
+
+mixture	B-Group
+.	O
+
+Chill	B-Action
+dough	B-Group
+1	B-Time
+/	I-Time
+2	I-Time
+hour	I-Time
+.	O
+
+Shape	B-Action
+dough	B-Group
+into	O
+1	B-Condition
+-	I-Condition
+inch	I-Condition
+balls	B-Group
+.	O
+
+Place	B-Action
+
+on	O
+greased	B-Condition
+cookie	B-Tool
+sheet	I-Tool
+.	O
+
+Bake	B-Action
+at	O
+350	B-Temperature
+degrees	I-Temperature
+F	I-Temperature
+.	O
+for	O
+15	B-Time
+minutes	I-Time
+.	O
+
+Cool	B-Action
+Cookies	B-Group
+on	O
+wire	B-Tool
+racks	I-Tool
+.	O
+
+Mix	B-Action
+confectioners	B-Ingredient
+sugar	I-Ingredient
+,	O
+vanilla	B-Ingredient
+,	O
+and	O
+
+water	B-Ingredient
+to	O
+form	O
+a	O
+thin	B-Condition
+glaze	B-Group
+.	O
+
+Dip	B-Action
+cookies	B-Group
+in	O
+glaze	B-Group
+and	O
+place	B-Action
+on	O
+wire	B-Tool
+
+rack	B-Tool
+to	O
+dry	O
+.	O
+
+Store	B-Action
+cookies	B-Group
+in	O
+airtight	B-Condition
+tins	B-Tool
+.	O
+
+Makes	O
+4	O
+dozen	O
+cookies	O
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Gravlaxsas	B-Title
+(	O
+Mustard	O
+&	O
+Dill	O
+Sauce	O
+)	O
+-	O
+MShol	O
+
+Categories	O
+:	O
+Swedish	O
+,	O
+Sauces	O
+
+Yield	O
+:	O
+3	O
+/	O
+4	O
+cup	O
+
+4	B-Amount
+tb	I-Amount
+Mustard	B-Ingredient
+;	O
+dark	B-Condition
+,	O
+highly	B-Condition
+
+-	B-Condition
+seasonsed	I-Condition
+,	O
+prepared	B-Condition
+
+1	B-Amount
+ts	I-Amount
+Mustard	B-Ingredient
+powder	I-Ingredient
+
+3	B-Amount
+tb	I-Amount
+Sugar	B-Ingredient
+
+2	B-Amount
+tb	I-Amount
+White	B-Ingredient
+Vinegar	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+3	I-Amount
+c	I-Amount
+Vegetable	B-Ingredient
+oil	I-Ingredient
+
+3	B-Amount
+tb	I-Amount
+Dill	B-Ingredient
+;	O
+fresh	B-Condition
+,	O
+chopped	B-Condition
+
+In	O
+a	O
+small	B-Condition
+deep	I-Condition
+bowl	B-Tool
+,	O
+mix	B-Action
+the	O
+two	O
+mustards	B-Group
+,	O
+sugar	B-Ingredient
+and	O
+vinegar	B-Ingredient
+to	O
+a	O
+
+paste	B-Group
+.	O
+
+With	O
+a	O
+wire	B-Tool
+whisk	I-Tool
+,	O
+slowly	O
+beat	B-Action
+in	O
+the	O
+oil	B-Ingredient
+until	O
+it	O
+forms	O
+a	O
+thick	B-Condition
+
+mayonnaise	B-Condition
+-	I-Condition
+like	I-Condition
+emulsion	B-Group
+.	O
+
+Stir	B-Action
+in	O
+the	O
+chopped	B-Condition
+dill	B-Ingredient
+.	O
+
+The	O
+sauce	B-Group
+may	O
+be	O
+
+kept	O
+refrigerated	O
+in	O
+a	O
+tightly	B-Condition
+covered	I-Condition
+jar	B-Tool
+for	O
+several	B-Time
+days	I-Time
+,	O
+but	O
+will	O
+
+probably	O
+need	O
+to	O
+be	O
+shaken	O
+vigorously	O
+or	O
+beaten	O
+with	O
+a	O
+whisk	O
+to	O
+remix	O
+
+the	O
+ingredients	O
+before	O
+serving	O
+it	O
+again	O
+.	O
+
+Source	O
+:	O
+Time	O
+/	O
+Life	O
+Foods	O
+of	O
+the	O
+World	O
+,	O
+
+Recipes	O
+:	O
+The	O
+Cooking	O
+of	O
+Scandinavia	O
+(	O
+1968	O
+)	O
+
+Typos	O
+by	O
+.	O
+\	O
+\	O
+ichele	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+BAKED	B-Title
+CHRISTMAS	I-Title
+PUDDING	I-Title
+WITH	I-Title
+BRANDY	I-Title
+SAUCE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+desserts	O
+
+Yield	O
+:	O
+10	O
+servings	O
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+,	O
+
+-	O
+softened	B-Condition
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+2	B-Amount
+eggs	B-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+molasses	B-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+finely	B-Condition
+chopped	I-Condition
+mixed	I-Condition
+candied	B-Ingredient
+
+-	B-Ingredient
+fruit	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+finely	B-Condition
+chopped	I-Condition
+yellow	B-Ingredient
+
+-	B-Ingredient
+candied	I-Ingredient
+pineapple	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+chopped	B-Condition
+pecans	B-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+all	B-Ingredient
+-	I-Ingredient
+purpose	I-Ingredient
+flour	I-Ingredient
+,	O
+divided	B-Condition
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+baking	B-Ingredient
+powder	I-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+baking	B-Ingredient
+soda	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+1	B-Amount
+t	I-Amount
+ground	B-Condition
+cinnamon	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+ground	B-Condition
+allspice	B-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+milk	B-Ingredient
+
+Brandy	B-Ingredient
+Sauce	I-Ingredient
+-	O
+separate	O
+recipe	O
+
+10	B-Amount
+to	I-Amount
+12	I-Amount
+sugar	B-Ingredient
+cubes	I-Ingredient
+
+Lemon	B-Ingredient
+extract	I-Ingredient
+(	O
+opt	O
+.	O
+)	O
+Combine	B-Action
+butter	B-Ingredient
+and	O
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+in	O
+a	O
+large	B-Condition
+mixing	B-Tool
+bowl	I-Tool
+;	O
+beat	B-Action
+with	O
+a	O
+
+wooden	B-Tool
+spoon	I-Tool
+until	O
+well	B-Condition
+blended	I-Condition
+.	O
+
+Add	B-Action
+eggs	B-Ingredient
+and	O
+molasses	B-Ingredient
+,	O
+mixing	O
+well	O
+.	O
+
+Dredge	B-Action
+candied	B-Ingredient
+fruits	I-Ingredient
+and	O
+pecans	B-Ingredient
+in	O
+2	B-Amount
+T	I-Amount
+flour	B-Ingredient
+;	O
+set	B-Action
+aside	O
+.	O
+
+Combine	B-Action
+remaining	B-Amount
+flour	B-Ingredient
+and	O
+next	O
+5	B-Amount
+ingredients	B-Group
+;	O
+add	B-Action
+to	O
+creamed	B-Condition
+
+mixture	B-Group
+alternately	O
+with	O
+milk	B-Ingredient
+,	O
+beginning	O
+and	O
+ending	O
+with	O
+flour	B-Group
+
+mixture	B-Group
+.	O
+
+Stir	B-Action
+fruit	B-Group
+mixture	I-Group
+into	O
+batter	B-Group
+.	O
+
+Spoon	B-Action
+batter	B-Group
+into	O
+a	O
+greased	B-Condition
+and	O
+floured	B-Condition
+2	I-Condition
+quart	I-Condition
+ring	B-Tool
+mold	I-Tool
+.	O
+
+Cover	B-Action
+with	O
+
+foil	B-Tool
+.	O
+
+Bake	B-Action
+at	O
+350	B-Temperature
+for	O
+1	B-Time
+1	I-Time
+/	I-Time
+2	I-Time
+hours	I-Time
+.	O
+
+Unmold	B-Action
+onto	O
+serving	B-Tool
+platter	I-Tool
+.	O
+
+Spoon	B-Action
+
+Brandy	B-Ingredient
+Sauce	I-Ingredient
+over	O
+pudding	B-Group
+.	O
+
+If	O
+desired	O
+,	O
+soak	B-Action
+sugar	B-Ingredient
+cubes	I-Ingredient
+in	O
+lemon	B-Ingredient
+
+extract	B-Ingredient
+.	O
+
+Arrange	B-Action
+soaked	B-Condition
+sugar	B-Ingredient
+cubes	I-Ingredient
+evenly	B-Condition
+around	O
+heat	B-Condition
+-	I-Condition
+proof	I-Condition
+serving	B-Tool
+
+platter	B-Tool
+,	O
+and	O
+ignite	B-Action
+just	O
+before	O
+serving	O
+.	O
+
+Di	O
+Note	O
+:	O
+Don	O
+'	O
+t	O
+drink	O
+too	O
+much	O
+before	O
+flaming	O
+this	O
+one	O
+on	O
+<	O
+G	O
+>	O
+.	O
+
+I	O
+did	O
+,	O
+
+and	O
+let	O
+us	O
+say	O
+.	O
+.	O
+.	O
+it	O
+was	O
+a	O
+very	O
+interesting	O
+moment	O
+.	O
+.	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Gravlax	B-Title
+(	O
+Salmon	O
+Marinated	O
+in	O
+Dill	O
+)	O
+-	O
+MShol	O
+
+Categories	O
+:	O
+Swedish	O
+,	O
+Seafood	O
+,	O
+Appetizers	O
+,	O
+Main	O
+dish	O
+,	O
+Smorgasbord	O
+
+Yield	O
+:	O
+8	O
+servings	O
+
+3	B-Amount
+lb	I-Amount
+Fresh	B-Condition
+salmon	B-Ingredient
+fillet	I-Ingredient
+;	O
+center	O
+
+-	O
+cut	O
+,	O
+cleaned	O
+&	O
+scaled	O
+
+1	B-Amount
+lg	I-Amount
+Bunch	I-Amount
+Dill	B-Ingredient
+;	O
+fresh	B-Condition
+,	O
+whole	B-Condition
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+Kosher	B-Ingredient
+salt	I-Ingredient
+(	O
+coarse	B-Condition
+,	O
+or	O
+
+-	O
+regular	B-Condition
+is	O
+necessary	O
+)	O
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+Sugar	B-Ingredient
+
+2	B-Amount
+tb	I-Amount
+White	B-Ingredient
+peppercorns	I-Ingredient
+(	O
+or	O
+black	O
+)	O
+
+-	O
+crushed	B-Condition
+
+Cut	B-Action
+the	O
+salmon	B-Ingredient
+in	O
+half	O
+lengthwise	O
+and	O
+remove	B-Action
+the	O
+backbone	O
+and	O
+the	O
+small	O
+,	O
+
+freebones	O
+,	O
+as	O
+well	O
+,	O
+or	O
+ask	O
+your	O
+fish	O
+dealer	O
+to	O
+do	O
+it	O
+for	O
+you	O
+.	O
+
+Leave	B-Action
+the	O
+
+skin	O
+on	O
+.	O
+
+Place	B-Action
+half	B-Amount
+of	O
+the	O
+fish	B-Ingredient
+,	O
+skin	B-Condition
+side	I-Condition
+down	I-Condition
+,	O
+in	O
+a	O
+deep	B-Condition
+glass	I-Condition
+,	O
+enamel	B-Condition
+or	O
+
+stainless	B-Condition
+steel	I-Condition
+baking	B-Tool
+dish	I-Tool
+or	O
+casserole	B-Tool
+.	O
+
+Wash	B-Action
+and	O
+then	O
+shake	B-Action
+dry	B-Condition
+the	O
+
+bunch	B-Amount
+of	O
+dill	B-Ingredient
+and	O
+place	B-Action
+it	O
+on	O
+the	O
+fish	B-Ingredient
+.	O
+
+(	O
+If	O
+the	O
+dill	B-Ingredient
+is	O
+of	O
+the	O
+hothouse	O
+
+variety	O
+and	O
+not	O
+very	O
+pungent	O
+,	O
+chop	B-Action
+the	O
+herb	B-Ingredient
+coarsely	O
+to	O
+release	O
+it	O
+'	O
+s	O
+
+flavor	O
+and	O
+sprinkle	B-Action
+it	O
+over	O
+the	O
+fish	B-Ingredient
+instead	O
+.	O
+)	O
+In	O
+a	O
+separate	B-Condition
+bowl	B-Tool
+,	O
+
+combine	B-Action
+the	O
+salt	B-Ingredient
+,	O
+sugar	B-Ingredient
+and	O
+crushed	B-Condition
+peppercorns	B-Ingredient
+.	O
+
+Sprinkle	B-Action
+this	O
+mixture	B-Group
+
+evenly	O
+over	O
+the	O
+dill	B-Ingredient
+.	O
+
+Top	B-Action
+with	O
+the	O
+other	O
+half	O
+of	O
+the	O
+fish	B-Ingredient
+,	O
+skin	B-Condition
+side	I-Condition
+up	I-Condition
+.	O
+
+Cover	B-Action
+with	O
+foil	B-Tool
+and	O
+set	B-Action
+a	O
+heavy	B-Condition
+plate	B-Tool
+or	O
+platter	B-Tool
+on	O
+top	O
+of	O
+it	O
+,	O
+slightly	B-Condition
+
+larger	B-Condition
+than	O
+the	O
+salmon	B-Ingredient
+.	O
+
+Weigh	B-Action
+it	O
+down	O
+with	O
+cans	B-Tool
+or	O
+jars	B-Tool
+and	O
+refrigerate	B-Action
+
+for	O
+at	O
+least	O
+3	B-Time
+days	I-Time
+,	O
+up	O
+to	O
+7	B-Time
+days	I-Time
+.	O
+
+Turn	B-Action
+the	O
+fish	B-Ingredient
+over	O
+every	O
+12	B-Time
+hours	I-Time
+or	O
+
+so	O
+,	O
+basting	B-Action
+with	O
+the	O
+liquid	B-Group
+marinade	I-Group
+that	O
+accumulates	O
+,	O
+separating	B-Action
+the	O
+
+halves	O
+a	O
+little	O
+to	O
+baste	O
+the	O
+salmon	B-Ingredient
+inside	O
+.	O
+
+Replace	B-Action
+the	O
+platter	B-Tool
+and	O
+
+weights	B-Tool
+each	O
+time	O
+.	O
+
+When	O
+the	O
+gravlax	B-Group
+is	O
+finished	O
+,	O
+remove	B-Action
+the	O
+fish	B-Ingredient
+from	O
+it	O
+'	O
+s	O
+marinade	B-Group
+you	O
+can	O
+
+scrape	B-Action
+away	O
+the	O
+dill	B-Ingredient
+and	O
+seasonings	B-Group
+and	O
+pat	B-Action
+dry	B-Condition
+with	O
+paper	B-Tool
+towels	I-Tool
+,	O
+or	O
+
+leave	B-Action
+the	O
+dill	B-Ingredient
+and	O
+seasonings	B-Group
+in	O
+place	O
+.	O
+
+Place	B-Action
+the	O
+separated	O
+halves	O
+skin	B-Condition
+
+side	B-Condition
+down	I-Condition
+on	O
+a	O
+carving	B-Tool
+board	I-Tool
+and	O
+slice	B-Action
+the	O
+salmon	B-Ingredient
+thinly	O
+on	O
+the	O
+
+diagonal	O
+,	O
+detaching	B-Action
+each	O
+slice	O
+from	O
+the	O
+skin	O
+.	O
+
+Gravlax	O
+is	O
+served	O
+as	O
+part	O
+of	O
+a	O
+smorgasbord	O
+or	O
+as	O
+an	O
+appetizer	O
+and	O
+is	O
+
+usually	O
+accompanied	O
+by	O
+a	O
+mustard	O
+-	O
+dill	O
+sauce	O
+(	O
+see	O
+recipe	O
+)	O
+.	O
+
+When	O
+gravlax	O
+
+is	O
+presented	O
+as	O
+a	O
+main	O
+course	O
+,	O
+it	O
+is	O
+garnished	O
+with	O
+lemon	O
+wedges	O
+as	O
+well	O
+
+as	O
+the	O
+mustard	O
+-	O
+dill	O
+sauce	O
+and	O
+served	O
+with	O
+toast	O
+and	O
+perhaps	O
+a	O
+cucumber	O
+
+salad	O
+.	O
+
+.	O
+\	O
+\	O
+ichele	O
+'	O
+s	O
+Notes	O
+:	O
+This	O
+is	O
+one	O
+of	O
+the	O
+easiest	O
+recipes	O
+to	O
+make	O
+.	O
+
+Long	O
+as	O
+
+you	O
+start	O
+it	O
+in	O
+advance	O
+it	O
+'	O
+s	O
+basically	O
+a	O
+no	O
+-	O
+brainer	O
+.	O
+
+Just	O
+remember	O
+to	O
+
+turn	O
+and	O
+baste	O
+every	O
+12	O
+hours	O
+.	O
+
+And	O
+slice	O
+thin	O
+.	O
+
+Mmmmmmm	O
+,	O
+its	O
+great	O
+!	O
+
+Source	O
+:	O
+Time	O
+/	O
+Life	O
+Foods	O
+of	O
+the	O
+World	O
+,	O
+
+Recipes	O
+:	O
+The	O
+Cooking	O
+of	O
+Scandinavia	O
+(	O
+1968	O
+)	O
+
+Typos	O
+by	O
+.	O
+\	O
+\	O
+ichele	O
+
+-DOCSTART- -X- -X- O
+
+Contributions	O
+from	O
+.	O
+\	O
+\	O
+ichele	O
+Stewart	O
+
+Title	O
+:	O
+Peter	B-Title
+'	I-Title
+s	I-Title
+"	I-Title
+Leeky	I-Title
+"	I-Title
+Potatoes	I-Title
+-	O
+MShol	O
+
+Categories	O
+:	O
+Vegetables	O
+,	O
+Main	O
+dish	O
+,	O
+Ours	O
+,	O
+Cheese	O
+/	O
+eggs	O
+,	O
+Casseroles	O
+
+Yield	O
+:	O
+6	O
+servings	O
+
+2	B-Amount
+lb	I-Amount
+Potatoes	B-Ingredient
+,	O
+sliced	B-Condition
+
+1	B-Amount
+lb	I-Amount
+Cottage	B-Ingredient
+cheese	I-Ingredient
+
+2	B-Amount
+Leeks	B-Ingredient
+,	O
+cut	B-Condition
+into	O
+1	B-Condition
+/	I-Condition
+2	I-Condition
+"	I-Condition
+pieces	I-Condition
+
+-	O
+sliced	B-Condition
+diagonally	I-Condition
+
+Herbal	B-Ingredient
+salt	I-Ingredient
+to	O
+taste	O
+
+"	O
+I	O
+love	O
+potatoes	O
+and	O
+I	O
+love	O
+leeks	O
+.	O
+
+Combine	O
+them	O
+together	O
+in	O
+this	O
+simple	O
+
+casserole	O
+and	O
+you	O
+'	O
+ve	O
+got	O
+a	O
+dish	O
+you	O
+can	O
+'	O
+t	O
+beat	O
+.	O
+
+Whether	O
+a	O
+side	O
+dish	O
+or	O
+
+as	O
+a	O
+main	O
+course	O
+,	O
+you	O
+'	O
+re	O
+gonna	O
+love	O
+it	O
+!	O
+
+.	O
+.	O
+.	O
+\	O
+\	O
+ichele	O
+"	O
+
+In	O
+a	O
+casserole	B-Tool
+dish	I-Tool
+,	O
+single	O
+layer	B-Action
+sliced	B-Condition
+potatoes	B-Ingredient
+,	O
+leeks	B-Ingredient
+and	O
+cottage	B-Ingredient
+
+cheese	B-Ingredient
+and	O
+salt	B-Ingredient
+to	O
+taste	O
+until	O
+dish	B-Tool
+is	O
+filled	B-Condition
+.	O
+
+Top	B-Action
+with	O
+single	O
+layer	O
+of	O
+
+sliced	B-Condition
+potatoes	B-Ingredient
+.	O
+
+Sprinkle	B-Action
+Paprika	B-Ingredient
+for	O
+garnish	O
+and	O
+bake	B-Action
+at	O
+375	B-Temperature
+ø	I-Temperature
+F	I-Temperature
+for	O
+45	B-Time
+
+min	B-Time
+.	O
+or	O
+until	O
+top	O
+is	O
+browned	B-Condition
+and	O
+potatoes	B-Ingredient
+are	O
+tender	B-Condition
+when	O
+pierced	O
+with	O
+
+the	O
+tip	O
+of	O
+a	O
+sharp	B-Condition
+knife	B-Tool
+or	O
+skewer	B-Tool
+.	O
+
+"	O
+Makes	O
+an	O
+excellent	O
+meal	O
+all	O
+by	O
+itself	O
+!	O
+"	O
+
+Source	O
+:	O
+Peter	O
+Stewart	O
+(	O
+c	O
+)	O
+1993	O
+
+-DOCSTART- -X- -X- O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+
+I	O
+hate	O
+peeling	O
+potatoes	O
+.	O
+
+(	O
+Not	O
+that	O
+chopping	O
+up	O
+squash	O
+is	O
+much	O
+
+easier	O
+.	O
+
+<	O
+g	O
+>	O
+)	O
+
+Title	O
+:	O
+Maple	B-Title
+Butternut	I-Title
+Squash	I-Title
+-	O
+NSVhol	O
+
+Categories	O
+:	O
+Side	O
+dish	O
+,	O
+Vegetables	O
+,	O
+Nsv	O
+
+Yield	O
+:	O
+10	O
+servings	O
+
+2	B-Amount
+md	B-Condition
+Butternut	B-Ingredient
+squash	I-Ingredient
+;	O
+(	O
+less	O
+than	O
+
+-	O
+two	O
+pounds	O
+each	O
+)	O
+
+Water	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+Maple	B-Ingredient
+syrup	I-Ingredient
+
+6	B-Amount
+tb	I-Amount
+Butter	B-Ingredient
+
+Chopped	B-Condition
+Parsley	B-Ingredient
+,	O
+garnish	O
+
+Cut	B-Action
+each	O
+squash	B-Ingredient
+lengthwise	O
+in	O
+half	O
+;	O
+discard	B-Action
+seeds	O
+.	O
+
+Then	O
+cut	B-Action
+each	O
+
+half	O
+crosswise	O
+into	O
+slices	B-Group
+about	O
+1	B-Condition
+inch	I-Condition
+thick	I-Condition
+;	O
+cut	B-Action
+off	O
+peel	O
+.	O
+
+(	O
+It	O
+
+occurs	O
+to	O
+me	O
+that	O
+this	O
+might	O
+be	O
+easier	O
+to	O
+do	O
+after	O
+the	O
+next	O
+step	O
+.	O
+)	O
+
+In	O
+a	O
+5	B-Condition
+quart	I-Condition
+saucepan	B-Tool
+over	O
+high	B-Temperature
+heat	I-Temperature
+,	O
+in	O
+1	B-Amount
+inch	I-Amount
+boiling	B-Condition
+water	B-Ingredient
+,	O
+heat	B-Action
+
+squash	B-Ingredient
+to	O
+boiling	O
+.	O
+
+Reduce	B-Action
+heat	O
+to	O
+low	B-Temperature
+;	O
+cover	B-Action
+and	O
+simmer	B-Action
+15	B-Time
+minutes	I-Time
+
+stirring	B-Action
+occasionally	O
+,	O
+or	O
+until	O
+squash	B-Ingredient
+is	O
+fork	B-Condition
+-	I-Condition
+tender	I-Condition
+.	O
+
+Drain	B-Action
+.	O
+
+In	O
+large	B-Condition
+bowl	B-Tool
+,	O
+with	O
+mixer	B-Tool
+at	O
+low	O
+speed	O
+,	O
+beat	B-Action
+squash	B-Ingredient
+,	O
+maple	B-Ingredient
+syrup	I-Ingredient
+,	O
+
+and	O
+butter	B-Ingredient
+until	O
+smooth	B-Condition
+,	O
+scraping	B-Action
+bowl	B-Tool
+often	O
+with	O
+a	O
+rubber	B-Tool
+spatula	I-Tool
+.	O
+
+Spoon	B-Action
+into	O
+a	O
+warm	B-Condition
+bowl	B-Tool
+;	O
+sprinkle	B-Action
+with	O
+parsley	B-Ingredient
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+MUSHROOM	B-Title
+MADNESS	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+sandwich	O
+
+Yield	O
+:	O
+6	O
+servings	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Marinade	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+T	I-Amount
+red	B-Ingredient
+wine	I-Ingredient
+vinegar	I-Ingredient
+
+1	B-Amount
+T	I-Amount
+fresh	B-Condition
+lemon	B-Ingredient
+juice	I-Ingredient
+
+2	B-Amount
+t	I-Amount
+Dijon	B-Ingredient
+Mustard	I-Ingredient
+
+1	B-Amount
+garlic	B-Ingredient
+clove	I-Ingredient
+,	O
+minced	B-Condition
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+Worcestershire	B-Ingredient
+sauce	I-Ingredient
+
+Dash	B-Amount
+hot	B-Ingredient
+pepper	I-Ingredient
+sauce	I-Ingredient
+
+Pinch	B-Amount
+dried	B-Condition
+oregano	B-Ingredient
+
+Pinch	B-Amount
+dried	B-Condition
+tarragon	B-Ingredient
+
+Salt	B-Ingredient
+&	O
+freshly	B-Condition
+ground	I-Condition
+pepper	B-Ingredient
+
+3	B-Amount
+oz	I-Amount
+olive	B-Ingredient
+oil	I-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+mushrooms	B-Ingredient
+sliced	B-Condition
+
+1	B-Amount
+md	B-Condition
+red	B-Ingredient
+onion	I-Ingredient
+,	O
+thinly	B-Condition
+sliced	I-Condition
+
+-	O
+-	O
+-	O
+-	O
+-	O
+Curry	O
+Mustard	O
+Sauce	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+2	B-Amount
+T	I-Amount
+(	O
+1	B-Amount
+/	I-Amount
+4	I-Amount
+stick	I-Amount
+)	O
+butter	B-Ingredient
+
+2	B-Amount
+T	I-Amount
+all	B-Ingredient
+purpose	I-Ingredient
+flour	I-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+milk	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+chicken	B-Ingredient
+broth	I-Ingredient
+
+2	B-Amount
+T	I-Amount
+dry	B-Ingredient
+sherry	I-Ingredient
+
+2	B-Amount
+t	I-Amount
+prepared	B-Condition
+mustard	B-Ingredient
+
+1	B-Amount
+t	I-Amount
+curry	B-Ingredient
+powder	I-Ingredient
+or	O
+to	O
+taste	O
+
+Salt	B-Ingredient
+&	O
+freshly	B-Condition
+ground	I-Condition
+pepper	B-Ingredient
+
+6	B-Amount
+slices	I-Amount
+seedless	B-Condition
+Russian	I-Condition
+rye	B-Ingredient
+
+-	B-Ingredient
+bread	I-Ingredient
+(	O
+I	O
+use	O
+pumpernickel	O
+)	O
+.	O
+
+3	B-Amount
+C	I-Amount
+shredded	B-Condition
+Swiss	B-Ingredient
+cheese	I-Ingredient
+
+For	O
+marinade	O
+:	O
+Combine	B-Action
+first	O
+9	B-Amount
+ingredients	B-Group
+in	O
+large	B-Condition
+bowl	B-Tool
+;	O
+blend	B-Action
+well	O
+.	O
+
+Whisk	B-Action
+in	O
+olive	B-Ingredient
+oil	I-Ingredient
+.	O
+
+Add	B-Action
+mushrooms	B-Ingredient
+and	O
+onion	B-Ingredient
+and	O
+toss	B-Action
+lightly	O
+to	O
+coat	O
+.	O
+
+Set	B-Action
+aside	O
+.	O
+
+For	O
+sauce	O
+:	O
+Melt	B-Action
+butter	B-Ingredient
+in	O
+small	B-Condition
+saucepan	B-Tool
+over	O
+medium	B-Temperature
+heat	I-Temperature
+.	O
+
+Stir	B-Action
+in	O
+flour	B-Ingredient
+
+and	O
+blend	B-Action
+well	O
+.	O
+
+Reduce	B-Action
+heat	O
+to	O
+low	B-Temperature
+and	O
+cook	B-Action
+2	B-Time
+minutes	I-Time
+.	O
+
+Blend	B-Action
+in	O
+milk	B-Ingredient
+,	O
+
+broth	B-Ingredient
+,	O
+sherry	B-Ingredient
+,	O
+mustard	B-Ingredient
+,	O
+and	O
+curry	B-Ingredient
+powder	I-Ingredient
+.	O
+
+Bring	B-Action
+to	O
+boil	O
+,	O
+stirring	B-Action
+
+constantly	O
+.	O
+
+Remove	B-Action
+from	O
+heat	O
+.	O
+
+Taste	B-Action
+and	O
+season	B-Action
+with	O
+salt	B-Ingredient
+and	O
+pepper	B-Ingredient
+.	O
+
+To	O
+assemble	O
+:	O
+Preheat	B-Action
+over	B-Tool
+to	O
+350	B-Temperature
+'	I-Temperature
+F	I-Temperature
+.	O
+
+Arrange	B-Action
+bread	B-Ingredient
+on	O
+baking	B-Tool
+sheet	I-Tool
+.	O
+
+Divide	B-Action
+mushrooms	B-Ingredient
+evenly	O
+among	O
+slices	O
+,	O
+mounding	O
+slightly	O
+in	O
+center	O
+.	O
+
+Top	B-Action
+
+each	O
+with	O
+about	O
+3	B-Amount
+t	I-Amount
+of	O
+sauce	B-Group
+and	O
+sprinkle	B-Action
+with	O
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+cheese	B-Ingredient
+.	O
+
+Bake	B-Action
+until	O
+
+sandwiches	B-Group
+are	O
+heated	B-Condition
+through	I-Condition
+,	O
+about	O
+20	B-Time
+minutes	I-Time
+.	O
+
+Di	O
+Note	O
+:	O
+I	O
+served	O
+this	O
+one	O
+New	O
+Year	O
+'	O
+s	O
+Day	O
+to	O
+a	O
+bunch	O
+of	O
+raving	O
+football	O
+
+fanatics	O
+and	O
+they	O
+actually	O
+took	O
+time	O
+to	O
+comment	O
+(	O
+between	O
+grunts	O
+)	O
+and	O
+
+ask	O
+for	O
+more	O
+.	O
+
+Amazing	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+CARAMEL	B-Title
+PECAN	I-Title
+PIE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+desserts	O
+,	O
+pies	O
+
+Yield	O
+:	O
+1	O
+pie	O
+
+1	B-Amount
+C	I-Amount
+sugar	B-Ingredient
+,	O
+divided	B-Condition
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+cornstarch	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+8	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+2	B-Amount
+C	I-Amount
+milk	B-Ingredient
+
+3	B-Amount
+eggs	B-Ingredient
+,	O
+separated	B-Condition
+
+3	B-Amount
+T	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+vanilla	B-Ingredient
+extract	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+chopped	B-Condition
+pecans	B-Ingredient
+
+1	B-Amount
+baked	B-Condition
+9	I-Condition
+inch	I-Condition
+pastry	B-Ingredient
+shell	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+cream	B-Ingredient
+of	I-Ingredient
+tartar	I-Ingredient
+
+3	B-Amount
+T	I-Amount
+sugar	B-Ingredient
+
+Sprinkle	B-Action
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+in	O
+a	O
+heavy	B-Condition
+skillet	B-Tool
+;	O
+place	B-Action
+over	O
+medium	B-Temperature
+heat	I-Temperature
+.	O
+
+Cook	B-Action
+,	O
+
+stirring	B-Action
+constantly	O
+,	O
+until	O
+sugar	B-Ingredient
+melts	B-Condition
+and	O
+syrup	B-Group
+is	O
+light	B-Condition
+golden	I-Condition
+brown	I-Condition
+.	O
+
+Combine	B-Action
+remaining	O
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+,	O
+cornstarch	B-Ingredient
+,	O
+and	O
+salt	B-Ingredient
+in	O
+a	O
+heavy	B-Condition
+
+saucepan	B-Tool
+-	O
+gradually	O
+stir	B-Action
+in	O
+milk	B-Ingredient
+.	O
+
+Cook	B-Action
+over	O
+medium	B-Temperature
+heat	I-Temperature
+,	O
+stirring	B-Action
+
+constantly	O
+,	O
+until	O
+thickened	B-Condition
+and	O
+bubbly	B-Condition
+.	O
+
+Beak	B-Action
+egg	B-Ingredient
+yolks	I-Ingredient
+;	O
+gradually	O
+stir	B-Action
+about	O
+one	B-Amount
+-	I-Amount
+fourth	I-Amount
+of	O
+hot	B-Group
+mixture	I-Group
+into	O
+
+yolks	B-Ingredient
+,	O
+and	O
+add	B-Action
+to	O
+remaining	B-Condition
+hot	B-Group
+mixture	I-Group
+,	O
+stirring	B-Action
+constantly	O
+.	O
+
+Cook	B-Action
+
+stirring	B-Action
+constantly	O
+,	O
+until	O
+thickened	B-Condition
+.	O
+
+Stir	B-Action
+in	O
+the	O
+caramelized	B-Condition
+sugar	B-Ingredient
+;	O
+
+cook	B-Action
+,	O
+stirring	B-Action
+constantly	O
+,	O
+until	O
+sugar	B-Ingredient
+melts	B-Condition
+.	O
+
+Remove	B-Action
+from	O
+heat	O
+;	O
+stir	B-Action
+
+in	O
+butter	B-Ingredient
+,	O
+vanilla	B-Ingredient
+and	O
+chopped	B-Condition
+pecans	B-Ingredient
+.	O
+
+Pour	B-Action
+into	O
+a	O
+baked	B-Condition
+pastry	B-Ingredient
+shell	I-Ingredient
+.	O
+
+Combine	B-Action
+egg	B-Ingredient
+whites	I-Ingredient
+(	O
+at	O
+room	B-Temperature
+temperature	I-Temperature
+)	O
+and	O
+cream	B-Ingredient
+of	I-Ingredient
+tartar	I-Ingredient
+;	O
+beat	B-Action
+at	O
+
+high	O
+speed	O
+of	O
+an	O
+electric	B-Tool
+mixer	I-Tool
+until	O
+foamy	B-Condition
+.	O
+
+Gradually	O
+add	B-Action
+3	B-Amount
+T	I-Amount
+sugar	B-Ingredient
+,	O
+1	B-Amount
+
+T	B-Amount
+at	O
+a	O
+time	O
+,	O
+beating	B-Action
+until	O
+stiff	O
+peaks	O
+form	O
+.	O
+
+Spread	B-Action
+meringue	B-Group
+over	O
+hot	B-Group
+filling	I-Group
+,	O
+sealing	B-Action
+to	O
+edge	O
+of	O
+pastry	O
+.	O
+
+Bake	B-Action
+at	O
+
+400	B-Temperature
+F	I-Temperature
+for	O
+8	B-Time
+to	I-Time
+10	I-Time
+minutes	I-Time
+or	O
+until	O
+lightly	B-Condition
+browned	I-Condition
+.	O
+
+Cool	B-Action
+completely	O
+
+before	O
+serving	O
+.	O
+
+Yield	O
+:	O
+one	O
+9	O
+-	O
+inch	O
+pie	O
+.	O
+
+Di	O
+Note	O
+:	O
+Good	O
+pie	O
+for	O
+Thanksgiving	O
+-	O
+very	O
+rich	O
+-	O
+all	O
+the	O
+guests	O
+will	O
+head	O
+
+for	O
+the	O
+nearest	O
+bed	O
+and	O
+you	O
+'	O
+ll	O
+have	O
+peace	O
+and	O
+quiet	O
+.	O
+
+Finally	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+
+This	O
+is	O
+for	O
+when	O
+everybody	O
+has	O
+gone	O
+home	O
+,	O
+the	O
+leftovers	O
+are	O
+put	O
+
+away	O
+,	O
+the	O
+dishes	O
+are	O
+washed	O
+,	O
+and	O
+the	O
+shoes	O
+are	O
+off	O
+.	O
+
+Title	O
+:	O
+Hot	B-Title
+Chocolate	I-Title
+-	O
+NSVhol	O
+
+Categories	O
+:	O
+Beverages	O
+,	O
+Nsv	O
+
+Yield	O
+:	O
+2	O
+servings	O
+
+1	B-Amount
+pt	I-Amount
+Milk	B-Ingredient
+
+3	B-Amount
+oz	I-Amount
+Imported	B-Condition
+chocolate	B-Ingredient
+(	O
+milk	B-Ingredient
+
+-	B-Ingredient
+chocolate	I-Ingredient
+or	O
+semi	B-Condition
+-	I-Condition
+sweet	I-Condition
+)	O
+
+Pour	B-Action
+1	B-Amount
+/	I-Amount
+4	I-Amount
+cup	I-Amount
+of	O
+the	O
+milk	B-Ingredient
+into	O
+a	O
+small	B-Condition
+,	O
+thick	B-Condition
+-	I-Condition
+bottomed	I-Condition
+pot	B-Tool
+.	O
+
+Break	B-Action
+the	O
+
+chocolate	B-Ingredient
+into	O
+small	B-Condition
+bits	B-Group
+and	O
+add	B-Action
+to	O
+the	O
+milk	B-Ingredient
+in	O
+the	O
+pot	B-Tool
+.	O
+
+Over	O
+very	O
+
+low	B-Temperature
+heat	I-Temperature
+,	O
+let	B-Action
+the	O
+chocolate	B-Ingredient
+melt	O
+,	O
+then	O
+pour	B-Action
+in	O
+the	O
+rest	O
+of	O
+the	O
+milk	B-Ingredient
+,	O
+bit	O
+
+by	O
+bit	O
+,	O
+whisking	B-Action
+well	O
+with	O
+each	O
+addition	O
+.	O
+
+When	O
+the	O
+chocolate	B-Ingredient
+is	O
+melted	B-Condition
+
+and	O
+the	O
+milk	B-Ingredient
+faintly	O
+steaming	B-Condition
+,	O
+remove	B-Action
+from	O
+the	O
+heat	O
+,	O
+beat	B-Action
+vigorously	O
+
+with	O
+a	O
+whisk	B-Tool
+until	O
+frothy	B-Condition
+,	O
+and	O
+serve	B-Action
+.	O
+
+Variations	O
+:	O
+A	O
+small	O
+amount	O
+of	O
+chocolate	O
+-	O
+based	O
+liqueur	O
+,	O
+such	O
+as	O
+
+Cheri	O
+-	O
+Suisse	O
+,	O
+Vandermint	O
+,	O
+or	O
+Droste	O
+Bittersweet	O
+is	O
+liked	O
+by	O
+some	O
+.	O
+
+Of	O
+
+course	O
+,	O
+unsweetened	O
+baking	O
+chocolate	O
+can	O
+be	O
+used	O
+instead	O
+.	O
+
+Use	O
+the	O
+same	O
+
+proportion	O
+:	O
+1	O
+1	O
+/	O
+2	O
+oz	O
+.	O
+chocolate	O
+per	O
+cup	O
+of	O
+milk	O
+and	O
+sweeten	O
+to	O
+taste	O
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+PECAN	B-Title
+COOKIES	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+cookies	O
+
+Yield	O
+:	O
+1	O
+1	O
+/	O
+2	O
+dozen	O
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+(	O
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+sticks	I-Amount
+)	O
+unsalted	B-Condition
+
+-	O
+butter	B-Ingredient
+,	O
+softened	B-Condition
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+packed	B-Condition
+brown	B-Ingredient
+sugar	I-Ingredient
+
+1	B-Amount
+egg	B-Ingredient
+
+1	B-Amount
+t	I-Amount
+vanilla	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+flour	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+baking	B-Ingredient
+powder	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+baking	B-Ingredient
+soda	I-Ingredient
+
+2	B-Amount
+/	I-Amount
+3	I-Amount
+c	I-Amount
+coarsely	B-Condition
+ground	I-Condition
+pecans	B-Ingredient
+
+Heat	B-Action
+oven	B-Tool
+to	O
+350	B-Temperature
+'	O
+.	O
+
+Cream	B-Action
+butter	B-Ingredient
+and	O
+sugar	B-Ingredient
+in	O
+large	B-Condition
+mixing	B-Tool
+bowl	I-Tool
+until	O
+
+well	B-Condition
+blended	I-Condition
+.	O
+
+Beat	B-Action
+in	O
+egg	B-Ingredient
+and	O
+vanilla	B-Ingredient
+until	O
+mixed	B-Condition
+.	O
+
+Using	O
+a	O
+wooden	B-Tool
+
+spoon	B-Tool
+,	O
+stir	B-Action
+in	O
+flour	B-Ingredient
+,	O
+baking	B-Ingredient
+powder	I-Ingredient
+and	O
+baking	B-Ingredient
+soda	I-Ingredient
+until	O
+mixed	B-Condition
+.	O
+
+Stir	B-Action
+
+in	O
+pecans	B-Ingredient
+.	O
+
+Drop	B-Action
+by	O
+spoonfuls	O
+onto	O
+lightly	B-Condition
+greased	I-Condition
+baking	B-Tool
+sheets	I-Tool
+.	O
+
+Bake	B-Action
+until	O
+golden	B-Condition
+
+and	O
+firm	B-Condition
+on	O
+the	O
+top	O
+,	O
+about	O
+10	B-Time
+minutes	I-Time
+.	O
+
+Cool	B-Action
+on	O
+wire	B-Tool
+rack	I-Tool
+.	O
+
+Di	O
+Note	O
+:	O
+Good	O
+cookie	O
+to	O
+have	O
+with	O
+coffee	O
+after	O
+everyone	O
+has	O
+gone	O
+home	O
+,	O
+
+the	O
+dishes	O
+are	O
+done	O
+and	O
+you	O
+finally	O
+get	O
+to	O
+sit	O
+down	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+BOTSFORD	B-Title
+INN	I-Title
+'	I-Title
+S	I-Title
+HONEY	I-Title
+BAKED	I-Title
+HAM	I-Title
+WITH	I-Title
+CUMBERLAND	I-Title
+SAUCE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+main	O
+dish	O
+,	O
+ham	O
+
+Yield	O
+:	O
+8	O
+servings	O
+?	O
+
+1	B-Amount
+whole	I-Amount
+or	O
+half	B-Amount
+ham	B-Ingredient
+
+2	B-Amount
+c	I-Amount
+pineapple	B-Ingredient
+juice	I-Ingredient
+
+1	B-Amount
+c	I-Amount
+honey	B-Ingredient
+
+1	B-Amount
+c	I-Amount
+brown	B-Ingredient
+sugar	I-Ingredient
+
+1	B-Amount
+qt	I-Amount
+hot	B-Temperature
+water	B-Ingredient
+
+1	B-Amount
+c	I-Amount
+currants	B-Ingredient
+
+Thinly	B-Condition
+peeled	I-Condition
+rind	B-Ingredient
+of	O
+1	B-Amount
+
+-	O
+orange	B-Ingredient
+
+Thinly	B-Condition
+peeled	I-Condition
+rind	B-Ingredient
+of	O
+1	B-Amount
+
+-	O
+lemon	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+3	I-Amount
+c	I-Amount
+cornstarch	B-Ingredient
+dissolved	B-Condition
+in	O
+
+-	O
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+water	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+firmly	B-Condition
+packed	I-Condition
+brown	B-Ingredient
+sugar	I-Ingredient
+
+Juice	B-Ingredient
+of	O
+1	B-Amount
+orange	B-Ingredient
+
+Juice	B-Ingredient
+of	O
+1	B-Amount
+lemon	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+3	I-Amount
+c	I-Amount
+red	B-Ingredient
+currant	I-Ingredient
+jelly	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+port	B-Ingredient
+wine	I-Ingredient
+
+Black	B-Ingredient
+cherries	I-Ingredient
+,	O
+if	O
+desired	O
+
+Place	B-Action
+ham	B-Ingredient
+in	O
+large	B-Condition
+roasting	B-Tool
+pan	I-Tool
+and	O
+pour	B-Action
+pineapple	B-Ingredient
+juice	I-Ingredient
+and	O
+honey	B-Ingredient
+over	O
+
+top	O
+.	O
+
+Sprinkle	B-Action
+with	O
+brown	B-Ingredient
+sugar	I-Ingredient
+.	O
+
+Bake	B-Action
+at	O
+325	B-Temperature
+'	O
+two	B-Time
+hours	I-Time
+.	O
+
+Meanwhile	O
+,	O
+to	O
+make	O
+sauce	O
+:	O
+In	O
+large	B-Condition
+saucepan	B-Tool
+,	O
+pour	B-Action
+hot	B-Temperature
+water	B-Ingredient
+over	O
+
+currants	B-Ingredient
+and	O
+let	B-Action
+stand	O
+until	O
+plumped	B-Condition
+,	O
+about	O
+20	B-Time
+minutes	I-Time
+.	O
+
+Cut	B-Action
+orange	B-Ingredient
+and	O
+lemon	B-Ingredient
+rinds	I-Ingredient
+into	O
+very	B-Condition
+fine	I-Condition
+julienne	B-Group
+about	O
+3	B-Condition
+/	I-Condition
+4	I-Condition
+inch	I-Condition
+long	I-Condition
+;	O
+
+poach	B-Action
+in	O
+simmering	B-Condition
+water	B-Ingredient
+20	B-Time
+minutes	I-Time
+.	O
+
+Drain	B-Action
+,	O
+discarding	O
+water	B-Ingredient
+,	O
+and	O
+set	B-Action
+
+aside	O
+.	O
+
+Stir	B-Action
+cornstarch	B-Group
+mixture	I-Group
+into	O
+currants	B-Ingredient
+and	O
+water	B-Ingredient
+;	O
+cook	B-Action
+,	O
+stirring	B-Action
+
+constantly	O
+,	O
+over	O
+medium	B-Temperature
+heat	I-Temperature
+until	O
+sauce	B-Group
+has	O
+thickened	B-Condition
+and	O
+become	O
+
+transparent	B-Condition
+.	O
+
+Add	B-Action
+brown	B-Ingredient
+sugar	I-Ingredient
+,	O
+orange	B-Ingredient
+and	O
+lemon	B-Ingredient
+juice	I-Ingredient
+,	O
+jelly	B-Ingredient
+and	O
+wine	B-Ingredient
+;	O
+
+stir	B-Action
+until	O
+jelly	B-Ingredient
+is	O
+melted	B-Condition
+and	O
+add	B-Action
+prepared	O
+orange	B-Ingredient
+and	O
+lemon	B-Ingredient
+rinds	I-Ingredient
+and	O
+
+black	B-Ingredient
+cherries	I-Ingredient
+.	O
+
+Serve	B-Action
+warm	B-Temperature
+over	O
+ham	B-Ingredient
+slices	B-Group
+.	O
+
+Makes	O
+about	O
+five	O
+cups	O
+of	O
+
+sauce	O
+.	O
+
+Di	O
+Note	O
+:	O
+The	O
+Botsford	O
+Inn	O
+is	O
+a	O
+very	O
+nice	O
+,	O
+old	O
+fashioned	O
+restaurant	O
+
+located	O
+in	O
+Farmington	O
+,	O
+Michigan	O
+.	O
+
+I	O
+had	O
+this	O
+there	O
+and	O
+really	O
+liked	O
+it	O
+
+and	O
+managed	O
+to	O
+squeeze	O
+the	O
+recipe	O
+out	O
+of	O
+the	O
+chef	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+
+Since	O
+my	O
+grandmother	O
+can	O
+no	O
+longer	O
+cook	O
+the	O
+large	O
+main	O
+dishes	O
+,	O
+the	O
+
+job	O
+now	O
+falls	O
+to	O
+me	O
+and	O
+my	O
+mother	O
+.	O
+
+I	O
+'	O
+ll	O
+let	O
+mom	O
+do	O
+the	O
+turkey	O
+this	O
+
+year	O
+(	O
+she	O
+always	O
+gets	O
+up	O
+before	O
+me	O
+anyway	O
+!	O
+)	O
+and	O
+I	O
+'	O
+ll	O
+make	O
+the	O
+ham	O
+.	O
+
+This	O
+recipe	O
+doubles	O
+nicely	O
+if	O
+you	O
+use	O
+a	O
+light	O
+touch	O
+with	O
+the	O
+
+mustard	O
+and	O
+vinegar	O
+.	O
+
+Title	O
+:	O
+Baked	B-Title
+Ham	I-Title
+with	I-Title
+Strawberry	I-Title
+Sauce	I-Title
+-	O
+NSVhol	O
+
+Categories	O
+:	O
+Pork	O
+,	O
+Main	O
+dish	O
+,	O
+Nsv	O
+
+Yield	O
+:	O
+2	O
+servings	O
+
+1	B-Amount
+Thick	B-Condition
+slice	O
+ham	B-Ingredient
+
+1	B-Amount
+tb	I-Amount
+Dry	B-Ingredient
+mustard	I-Ingredient
+
+4	B-Amount
+tb	I-Amount
+Brown	B-Ingredient
+sugar	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+3	I-Amount
+c	I-Amount
+White	B-Ingredient
+vinegar	I-Ingredient
+
+10	B-Amount
+oz	I-Amount
+Frozen	B-Condition
+strawberries	B-Ingredient
+,	O
+
+-	O
+undrained	B-Condition
+(	O
+one	O
+package	O
+)	O
+
+2	B-Amount
+ea	I-Amount
+Sticks	B-Condition
+cinnamon	B-Ingredient
+
+2	B-Amount
+ea	I-Amount
+Whole	B-Condition
+cloves	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Ginger	B-Ingredient
+
+ds	B-Amount
+Nutmeg	B-Ingredient
+
+Gash	B-Action
+the	O
+ham	B-Ingredient
+fat	I-Ingredient
+in	O
+several	O
+places	O
+and	O
+brown	B-Action
+in	O
+a	O
+skillet	B-Tool
+on	O
+both	O
+
+sides	O
+.	O
+
+Place	B-Action
+ham	B-Ingredient
+slice	I-Ingredient
+in	O
+baking	B-Tool
+dish	I-Tool
+.	O
+
+Combine	B-Action
+mustard	B-Ingredient
+,	O
+brown	B-Ingredient
+sugar	I-Ingredient
+
+and	O
+vinegar	B-Ingredient
+and	O
+sprinkle	B-Action
+over	O
+ham	B-Ingredient
+.	O
+
+In	O
+saucepan	B-Tool
+simmer	B-Action
+strawberries	B-Ingredient
+and	O
+
+spices	B-Group
+together	O
+for	O
+10	B-Time
+-	I-Time
+15	I-Time
+minutes	I-Time
+.	O
+
+Pour	B-Action
+over	O
+ham	B-Ingredient
+and	O
+bake	B-Action
+in	O
+320F	B-Temperature
+oven	B-Tool
+
+for	O
+1	B-Time
+1	I-Time
+/	I-Time
+2	I-Time
+hours	I-Time
+.	O
+
+-DOCSTART- -X- -X- O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+
+I	O
+'	O
+m	O
+not	O
+invited	O
+to	O
+dinner	O
+anywhere	O
+unless	O
+I	O
+bring	O
+these	O
+.	O
+
+Makes	O
+me	O
+
+wonder	O
+sometimes	O
+.	O
+.	O
+.	O
+are	O
+they	O
+inviting	O
+me	O
+,	O
+or	O
+my	O
+stuffed	O
+mushrooms	O
+?	O
+
+Title	O
+:	O
+Cheese	B-Title
+-	I-Title
+Stuffed	I-Title
+Mushrooms	I-Title
+-	O
+NSVhol	O
+
+Categories	O
+:	O
+Vegetables	O
+,	O
+Side	O
+dish	O
+,	O
+Italian	O
+,	O
+Nsv	O
+
+Yield	O
+:	O
+1	O
+servings	O
+
+2	B-Amount
+lb	I-Amount
+Large	B-Condition
+mushrooms	B-Ingredient
+(	O
+about	O
+40	B-Amount
+)	O
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+Grated	B-Condition
+Romano	B-Ingredient
+cheese	I-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+Dry	B-Condition
+bread	B-Ingredient
+crumbs	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+Grated	B-Condition
+onion	B-Ingredient
+
+2	B-Amount
+Cloves	I-Amount
+garlic	B-Ingredient
+,	O
+minced	B-Condition
+
+3	B-Amount
+tb	I-Amount
+Minced	B-Condition
+parsley	B-Ingredient
+
+1	B-Amount
+ts	I-Amount
+Salt	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Freshly	B-Condition
+ground	I-Condition
+black	B-Ingredient
+pepper	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+ts	I-Amount
+Oregano	B-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+c	I-Amount
+Olive	B-Ingredient
+oil	I-Ingredient
+
+Wash	B-Action
+but	O
+do	O
+not	O
+peel	O
+mushrooms	B-Ingredient
+.	O
+
+Remove	B-Action
+stems	O
+and	O
+chop	B-Action
+.	O
+
+Mix	B-Action
+all	O
+
+ingredients	B-Group
+except	O
+mushrooms	B-Ingredient
+and	O
+oil	B-Ingredient
+.	O
+
+Stuff	B-Action
+mushroom	B-Ingredient
+caps	B-Group
+.	O
+
+Pour	B-Action
+a	B-Amount
+
+little	B-Amount
+oil	B-Ingredient
+into	O
+baking	B-Tool
+pan	I-Tool
+;	O
+arrange	B-Action
+mushrooms	B-Ingredient
+in	O
+pan	B-Tool
+.	O
+
+Pour	B-Action
+
+remaining	O
+oil	B-Ingredient
+over	O
+each	O
+one	O
+.	O
+
+Bake	B-Action
+at	O
+350F	B-Temperature
+for	O
+25	B-Time
+minutes	I-Time
+.	O
+
+Serve	B-Action
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Puerto	B-Title
+Rican	I-Title
+Ricemeal	I-Title
+Buns	I-Title
+(	I-Title
+Almojabanas	I-Title
+)	I-Title
+-	O
+RL	O
+
+Categories	O
+:	O
+breads	O
+
+Yield	O
+:	O
+24	O
+buns	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+A	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+2	B-Amount
+C	I-Amount
+milk	B-Ingredient
+
+2	B-Amount
+oz	I-Amount
+butter	B-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+B	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+2	B-Amount
+C	I-Amount
+very	B-Condition
+fine	I-Condition
+ricemeal	B-Ingredient
+
+2	B-Amount
+t	I-Amount
+baking	B-Ingredient
+powder	I-Ingredient
+
+3	B-Amount
+eggs	B-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+C	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+mild	B-Condition
+white	B-Ingredient
+cheese	I-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+D	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+lard	B-Ingredient
+or	O
+vegetable	B-Ingredient
+oil	I-Ingredient
+for	O
+
+-	O
+deep	O
+frying	O
+
+Here	O
+is	O
+something	O
+to	O
+eat	O
+with	O
+it	O
+:	O
+
+1	O
+.	O
+
+In	O
+a	O
+saucepan	B-Tool
+,	O
+heat	B-Action
+to	O
+boiling	B-Condition
+,	O
+ingredients	B-Group
+in	O
+"	O
+A	O
+"	O
+and	O
+remove	B-Action
+from	O
+
+heat	O
+.	O
+
+2	O
+.	O
+
+Combine	B-Action
+ricemeal	B-Ingredient
+and	O
+baking	B-Ingredient
+powder	I-Ingredient
+and	O
+mix	B-Action
+with	O
+contents	B-Group
+in	O
+saucepan	B-Tool
+.	O
+
+Add	B-Action
+eggs	B-Ingredient
+ONE	O
+AT	O
+A	O
+TIME	O
+and	O
+mix	B-Action
+.	O
+
+3	O
+.	O
+
+Cook	B-Action
+over	O
+moderate	B-Temperature
+heat	I-Temperature
+,	O
+stirring	B-Action
+constantly	O
+with	O
+wooden	B-Tool
+spoon	I-Tool
+,	O
+
+until	O
+mixture	B-Group
+separates	O
+from	O
+sides	O
+and	O
+bottom	O
+of	O
+sauce	B-Tool
+pan	I-Tool
+.	O
+
+4	O
+.	O
+
+Remove	B-Action
+from	O
+heat	O
+.	O
+
+Mash	B-Action
+cheese	B-Ingredient
+with	O
+fork	B-Tool
+and	O
+add	B-Action
+.	O
+
+Mix	B-Action
+thoroughly	O
+.	O
+
+5	O
+.	O
+
+Drop	B-Action
+mixture	B-Group
+by	O
+spoonfools	B-Amount
+in	O
+fat	B-Ingredient
+,	O
+heated	B-Condition
+to	O
+375	B-Temperature
+degs	I-Temperature
+,	O
+until	O
+brown	B-Condition
+.	O
+
+Remove	B-Action
+and	O
+drain	B-Action
+on	O
+absorbent	B-Condition
+paper	B-Tool
+.	O
+
+Ricardo	O
+Landrau	O
+,	O
+Carolina	O
+PR	O
+,	O
+Fidonet	O
+1	O
+:	O
+367	O
+/	O
+28	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+WHITE	B-Title
+CHRISTMAS	I-Title
+PIE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+desserts	O
+,	O
+pie	O
+
+Yield	O
+:	O
+1	O
+pie	O
+
+1	B-Amount
+envelope	I-Amount
+unflavored	B-Condition
+gelatin	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+cold	B-Condition
+water	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+all	B-Ingredient
+-	I-Ingredient
+purpose	I-Ingredient
+flour	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+1	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+milk	B-Ingredient
+
+3	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+vanilla	B-Ingredient
+extract	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+almond	B-Ingredient
+extract	I-Ingredient
+
+3	B-Amount
+egg	B-Ingredient
+whites	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+t	I-Amount
+cream	B-Ingredient
+of	I-Ingredient
+tartar	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+whipping	B-Ingredient
+cream	I-Ingredient
+,	O
+whipped	B-Condition
+
+1	B-Amount
+C	I-Amount
+flaked	B-Condition
+coconut	B-Ingredient
+
+1	B-Amount
+baked	B-Condition
+9	I-Condition
+-	I-Condition
+inch	I-Condition
+pastry	B-Ingredient
+shell	I-Ingredient
+
+Additional	B-Condition
+flaked	I-Condition
+coconut	B-Ingredient
+
+-	O
+(	O
+opt	O
+.	O
+)	O
+
+Red	B-Condition
+&	I-Condition
+green	I-Condition
+candied	B-Ingredient
+
+-	B-Ingredient
+cherries	I-Ingredient
+
+Soften	B-Action
+gelatin	B-Ingredient
+in	O
+cold	B-Condition
+water	B-Ingredient
+,	O
+and	O
+set	B-Action
+aside	O
+.	O
+
+Combine	B-Action
+1	B-Amount
+/	I-Amount
+2	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+,	O
+flour	B-Ingredient
+,	O
+and	O
+salt	B-Ingredient
+in	O
+a	O
+saucepan	B-Tool
+;	O
+gradually	O
+add	B-Action
+milk	B-Ingredient
+,	O
+
+stirring	B-Action
+until	O
+blended	B-Condition
+.	O
+
+Cook	B-Action
+over	O
+medium	B-Temperature
+heat	I-Temperature
+,	O
+stirring	B-Action
+constantly	O
+,	O
+
+until	O
+mixture	B-Group
+thickens	B-Condition
+and	O
+comes	O
+to	O
+a	O
+boil	O
+.	O
+
+Boil	B-Action
+1	B-Time
+minute	I-Time
+,	O
+stirring	B-Action
+
+constantly	O
+.	O
+
+Remove	B-Action
+from	O
+heat	O
+;	O
+stir	B-Action
+in	O
+softened	B-Condition
+gelatin	B-Ingredient
+and	O
+flavorings	B-Group
+.	O
+
+Cool	B-Action
+.	O
+
+Beat	B-Action
+egg	B-Ingredient
+whites	I-Ingredient
+(	O
+at	O
+room	B-Temperature
+temperature	I-Temperature
+)	O
+and	O
+cream	B-Ingredient
+of	I-Ingredient
+tartar	I-Ingredient
+until	O
+foamy	B-Condition
+;	O
+
+gradually	O
+add	B-Action
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+sugar	B-Ingredient
+,	O
+1	B-Amount
+T	I-Amount
+at	O
+a	O
+time	O
+,	O
+beating	B-Action
+until	O
+soft	O
+peaks	O
+form	O
+.	O
+
+Fold	B-Action
+egg	B-Ingredient
+whites	I-Ingredient
+,	O
+whipped	B-Ingredient
+cream	I-Ingredient
+,	O
+and	O
+1	B-Amount
+C	I-Amount
+coconut	B-Ingredient
+into	O
+gelatin	B-Group
+mixture	I-Group
+;	O
+
+pour	B-Action
+into	O
+crust	B-Ingredient
+.	O
+
+Sprinkle	B-Action
+with	O
+additional	B-Condition
+coconut	B-Ingredient
+,	O
+if	O
+desired	O
+.	O
+
+Chill	B-Action
+
+until	O
+set	B-Condition
+.	O
+
+Garnish	B-Action
+with	O
+candied	B-Ingredient
+cherries	I-Ingredient
+.	O
+
+Di	O
+Note	O
+:	O
+Made	O
+this	O
+one	O
+Christmas	O
+and	O
+received	O
+rave	O
+reviews	O
+.	O
+
+Very	O
+
+pretty	O
+pie	O
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+-	O
+
+Easy	O
+,	O
+make	O
+-	O
+ahead	O
+recipes	O
+are	O
+the	O
+only	O
+things	O
+that	O
+get	O
+me	O
+through	O
+
+the	O
+holiday	O
+season	O
+.	O
+
+And	O
+people	O
+are	O
+always	O
+impressed	O
+that	O
+my	O
+
+cranberry	O
+sauce	O
+isn	O
+'	O
+t	O
+out	O
+of	O
+a	O
+can	O
+.	O
+
+Go	O
+figure	O
+.	O
+
+Title	O
+:	O
+Cranberry	B-Title
+Sauce	I-Title
+-	O
+NSVhol	O
+
+Categories	O
+:	O
+Side	O
+dish	O
+,	O
+Fruits	O
+,	O
+Holiday	O
+,	O
+Nsv	O
+
+Yield	O
+:	O
+2	O
+cups	O
+
+1	B-Amount
+c	I-Amount
+Sugar	B-Ingredient
+
+1	B-Amount
+c	I-Amount
+Water	B-Ingredient
+
+1	B-Amount
+pk	I-Amount
+Cranberries	B-Ingredient
+(	O
+12	B-Condition
+ounce	I-Condition
+)	O
+
+In	O
+2	B-Condition
+quart	I-Condition
+saucepan	B-Tool
+over	O
+medium	B-Temperature
+heat	I-Temperature
+,	O
+heat	B-Action
+sugar	B-Ingredient
+and	O
+water	B-Ingredient
+to	O
+
+boiling	B-Condition
+.	O
+
+Add	B-Action
+cranberries	B-Ingredient
+and	O
+return	B-Action
+to	O
+the	O
+boil	O
+.	O
+
+Reduce	B-Action
+heat	O
+to	O
+
+low	B-Temperature
+;	O
+cover	B-Action
+and	O
+simmer	B-Action
+7	B-Time
+minutes	I-Time
+or	O
+until	O
+berries	B-Ingredient
+pop	O
+.	O
+
+Refrigerate	B-Action
+
+overnight	B-Time
+.	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+BRANDY	B-Title
+SAUCE	I-Title
+-	O
+DKP	O
+
+Categories	O
+:	O
+holidays	O
+,	O
+di	O
+,	O
+sauces	O
+,	O
+alcohol	O
+
+Yield	O
+:	O
+1	O
+/	O
+2	O
+cup	O
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+butter	B-Ingredient
+or	O
+margarine	B-Ingredient
+,	O
+
+-	O
+softened	B-Condition
+
+2	B-Amount
+C	I-Amount
+sifted	B-Condition
+powdered	B-Ingredient
+sugar	I-Ingredient
+
+2	B-Amount
+to	I-Amount
+3	I-Amount
+T	I-Amount
+milk	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+brandy	B-Ingredient
+extract	I-Ingredient
+
+Cream	B-Action
+butter	B-Ingredient
+,	O
+and	O
+gradually	O
+add	B-Action
+powdered	B-Ingredient
+sugar	I-Ingredient
+.	O
+
+Add	B-Action
+enough	O
+milk	B-Ingredient
+to	O
+
+reach	O
+desired	O
+consistency	O
+.	O
+
+Stir	B-Action
+in	O
+brandy	B-Ingredient
+extract	I-Ingredient
+.	O
+
+Di	O
+Pahl	O
+'	O
+s	O
+personal	O
+recipes	O
+-	O
+1994	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Puerto	B-Title
+Rican	I-Title
+Rice	I-Title
+With	I-Title
+Chicken	I-Title
+(	I-Title
+Arroz	I-Title
+Con	I-Title
+Pollo	I-Title
+)	I-Title
+-	O
+RL	O
+
+Categories	O
+:	O
+main	O
+dish	O
+,	O
+chicken	O
+,	O
+rice	O
+
+Yield	O
+:	O
+8	O
+servings	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+A	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+2	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+lb	I-Amount
+chicken	B-Ingredient
+pieces	I-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+B	O
+*	O
+Crush	O
+and	O
+mix	O
+in	O
+mortar	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+2	B-Amount
+peppercorns	B-Ingredient
+(	O
+whole	O
+black	O
+
+-	O
+pepper	O
+)	O
+
+2	B-Amount
+cloves	I-Amount
+garlic	B-Ingredient
+peeled	B-Condition
+
+1	B-Amount
+t	I-Amount
+dried	B-Condition
+oregano	B-Ingredient
+(	O
+pref	O
+.	O
+fresh	O
+)	O
+
+4	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+2	B-Amount
+t	I-Amount
+olive	B-Ingredient
+oil	I-Ingredient
+
+1	B-Amount
+t	I-Amount
+vinegar	B-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+C	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+T	I-Amount
+lard	B-Ingredient
+or	O
+vegetable	B-Ingredient
+oil	I-Ingredient
+
+1	B-Amount
+oz	I-Amount
+salt	B-Ingredient
+pork	I-Ingredient
+
+2	B-Amount
+oz	I-Amount
+lean	B-Condition
+cured	B-Ingredient
+ham	I-Ingredient
+(	O
+wash	B-Action
+and	O
+
+-	O
+dice	B-Action
+salt	B-Ingredient
+pork	I-Ingredient
+and	O
+ham	B-Ingredient
+)	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+D	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+onion	B-Ingredient
+peeled	B-Condition
+
+1	B-Amount
+green	B-Ingredient
+pepper	I-Ingredient
+,	O
+seeded	B-Condition
+
+3	B-Amount
+sweet	B-Ingredient
+chili	I-Ingredient
+peppers	I-Ingredient
+,	O
+seeded	B-Condition
+
+1	B-Amount
+tomato	B-Ingredient
+
+6	B-Amount
+fresh	B-Condition
+cilantro	B-Ingredient
+leaves	I-Ingredient
+
+-	O
+(	O
+chop	B-Action
+everything	B-Group
+in	O
+small	B-Condition
+
+-	O
+pieces	B-Group
+)	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+E	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+t	I-Amount
+salt	B-Ingredient
+
+10	B-Amount
+olives	B-Ingredient
+stuffed	B-Condition
+with	O
+
+-	O
+pimientos	B-Ingredient
+
+1	B-Amount
+T	I-Amount
+capers	B-Ingredient
+
+1	B-Amount
+/	I-Amount
+4	I-Amount
+C	I-Amount
+tomato	B-Ingredient
+sauce	I-Ingredient
+
+2	B-Amount
+T	I-Amount
+fat	B-Ingredient
+or	O
+"	O
+achiote	B-Ingredient
+coloring	I-Ingredient
+"	O
+
+3	B-Amount
+C	I-Amount
+rice	B-Ingredient
+
+-	O
+-	O
+-	O
+-	O
+-	O
+F	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+cn	I-Amount
+(	O
+17	B-Amount
+oz	I-Amount
+)	O
+green	B-Ingredient
+peas	I-Ingredient
+(	O
+petit	O
+
+-	O
+pois	O
+)	O
+
+-	O
+-	O
+-	O
+-	O
+-	O
+G	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+=	O
+
+1	B-Amount
+cn	I-Amount
+(	O
+4	B-Amount
+oz	I-Amount
+)	O
+pimientos1	B-Ingredient
+.	O
+
+Wash	B-Action
+chicken	B-Ingredient
+and	O
+divide	B-Action
+each	O
+chicken	B-Ingredient
+piece	I-Ingredient
+in	O
+two	O
+.	O
+
+Dry	B-Action
+and	O
+rub	B-Action
+with	O
+
+seasoning	B-Group
+included	O
+in	O
+B	O
+.	O
+
+Set	B-Action
+in	O
+refrigerator	B-Tool
+overnight	B-Time
+.	O
+
+2	O
+.	O
+
+In	O
+a	O
+"	O
+Caldero	B-Tool
+"	O
+or	O
+heavy	B-Tool
+kettle	I-Tool
+,	O
+heat	B-Action
+fat	B-Ingredient
+and	O
+brown	B-Action
+rapidly	O
+salt	B-Ingredient
+pork	I-Ingredient
+
+and	O
+ham	B-Ingredient
+.	O
+
+Reduce	B-Action
+to	O
+moderate	B-Temperature
+and	O
+add	B-Action
+chicken	B-Ingredient
+.	O
+
+Cook	B-Action
+for	O
+5	B-Time
+minutes	I-Time
+.	O
+
+3	O
+.	O
+
+Reduce	B-Action
+heat	O
+to	O
+low	B-Temperature
+.	O
+
+Add	B-Action
+ingredients	B-Group
+in	O
+D	O
+and	O
+saute	B-Action
+for	O
+10	B-Time
+minutes	I-Time
+
+stirring	B-Action
+occasionally	O
+.	O
+
+4	O
+.	O
+
+Meanwhile	O
+drain	B-Action
+liquid	O
+from	O
+can	O
+of	O
+peas	B-Ingredient
+into	O
+a	O
+measuring	B-Tool
+cup	I-Tool
+and	O
+
+enough	O
+water	B-Ingredient
+to	O
+make	O
+2	B-Amount
+.	I-Amount
+5	I-Amount
+cups	I-Amount
+,	O
+if	O
+regular	B-Condition
+rice	B-Ingredient
+is	O
+used	O
+or	O
+3	B-Amount
+.	I-Amount
+5	I-Amount
+if	O
+long	B-Condition
+
+rice	B-Ingredient
+is	O
+used	O
+.	O
+
+Reserve	B-Action
+peas	B-Ingredient
+.	O
+
+Heat	B-Action
+liquid	B-Group
+and	O
+wait	B-Action
+.	O
+
+5	O
+.	O
+
+Add	B-Action
+to	O
+kettle	B-Tool
+ingredients	B-Group
+in	O
+E	O
+and	O
+mix	B-Action
+over	O
+moderate	B-Temperature
+heat	I-Temperature
+for	O
+2	B-Time
+
+minutes	B-Time
+.	O
+
+6	O
+.	O
+
+Add	B-Action
+hot	B-Condition
+liquid	B-Group
+to	O
+kettle	B-Tool
+and	O
+mix	B-Action
+well	O
+and	O
+cook	B-Action
+uncovered	B-Condition
+over	O
+
+moderate	B-Temperature
+heat	I-Temperature
+until	O
+rice	B-Ingredient
+is	O
+dry	B-Condition
+.	O
+
+7	O
+.	O
+
+With	O
+a	O
+fork	B-Tool
+turn	B-Action
+rice	B-Ingredient
+from	O
+bottom	O
+to	O
+top	O
+.	O
+
+8	O
+.	O
+
+Cover	B-Action
+kettle	B-Tool
+and	O
+cook	B-Action
+over	O
+low	B-Temperature
+heat	I-Temperature
+for	O
+40	B-Time
+minutes	I-Time
+.	O
+
+Halfway	O
+during	O
+
+this	O
+cooking	O
+period	O
+turn	B-Action
+rice	B-Ingredient
+over	O
+again	O
+.	O
+
+9	O
+.	O
+
+Add	B-Action
+peas	B-Ingredient
+,	O
+turn	B-Action
+rice	B-Ingredient
+once	O
+more	O
+and	O
+cover	B-Action
+,	O
+cooking	B-Action
+for	O
+15	B-Time
+minutes	I-Time
+in	O
+
+low	B-Temperature
+heat	I-Temperature
+.	O
+
+10	O
+.	O
+
+Spoon	B-Action
+rice	B-Ingredient
+into	O
+a	O
+serving	B-Tool
+platter	I-Tool
+.	O
+
+11	O
+.	O
+
+Heat	B-Action
+pimientos	B-Ingredient
+in	O
+their	O
+juices	O
+,	O
+drain	B-Action
+and	O
+garnish	B-Action
+the	O
+rice	B-Ingredient
+.	O
+
+Serve	B-Action
+
+at	O
+once	O
+.	O
+
+Ricardo	O
+Landrau	O
+,	O
+Carolina	O
+PR	O
+,	O
+Fidonet	O
+1	O
+:	O
+367	O
+/	O
+28	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+Jansson	B-Title
+'	I-Title
+s	I-Title
+Frestelse	I-Title
+(	O
+Jansson	O
+'	O
+s	O
+Temptation	O
+)	O
+-	O
+MShol	O
+
+Categories	O
+:	O
+Swedish	O
+,	O
+Seafood	O
+,	O
+Side	O
+dish	O
+,	O
+Casseroles	O
+
+Yield	O
+:	O
+4	O
+servings	O
+
+7	B-Amount
+md	B-Condition
+Boiling	I-Condition
+potatoes	B-Ingredient
+;	O
+peeled	B-Condition
+&	O
+
+-	O
+cut	B-Condition
+into	O
+2	B-Condition
+"	I-Condition
+X	I-Condition
+1	I-Condition
+/	I-Condition
+4	I-Condition
+"	I-Condition
+strips	B-Group
+
+2	B-Amount
+1	I-Amount
+/	I-Amount
+2	I-Amount
+tb	I-Amount
+Butter	B-Ingredient
+
+2	B-Amount
+tb	I-Amount
+Vegetable	B-Ingredient
+oil	I-Ingredient
+
+2	B-Amount
+lg	B-Condition
+(	O
+to	O
+3	B-Amount
+)	O
+yellow	B-Ingredient
+onions	I-Ingredient
+;	O
+thinly	B-Condition
+
+-	B-Condition
+sliced	I-Condition
+(	O
+4	B-Amount
+cups	I-Amount
+)	O
+
+16	B-Amount
+Flat	B-Condition
+anchovy	B-Ingredient
+fillets	I-Ingredient
+;	O
+drained	B-Condition
+
+White	B-Ingredient
+pepper	I-Ingredient
+
+2	B-Amount
+tb	I-Amount
+Fine	B-Condition
+dry	I-Condition
+bread	B-Ingredient
+crumbs	I-Ingredient
+
+2	B-Amount
+tb	I-Amount
+Butter	B-Ingredient
+;	O
+cut	B-Condition
+into	O
+1	B-Condition
+/	I-Condition
+4	I-Condition
+"	I-Condition
+bits	B-Group
+
+1	B-Amount
+c	I-Amount
+Heavy	B-Ingredient
+cream	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+2	I-Amount
+c	I-Amount
+Milk	B-Ingredient
+
+Preheat	B-Action
+oven	B-Tool
+to	O
+400	B-Temperature
+ø	I-Temperature
+F	I-Temperature
+.	O
+
+Place	B-Action
+the	O
+potato	B-Group
+strips	I-Group
+in	O
+cold	B-Condition
+water	B-Ingredient
+to	O
+keep	O
+
+them	O
+from	O
+discoloring	O
+.	O
+
+Heat	B-Action
+2	B-Amount
+tablespoons	I-Amount
+of	O
+butter	B-Ingredient
+and	O
+2	B-Amount
+tablespoons	I-Amount
+of	O
+
+oil	B-Ingredient
+in	O
+a	O
+10	B-Condition
+-	I-Condition
+12	I-Condition
+"	I-Condition
+skillet	B-Tool
+;	O
+when	O
+the	O
+foam	O
+subsides	O
+,	O
+add	B-Action
+the	O
+onions	B-Ingredient
+and	O
+cook	B-Action
+
+10	B-Time
+minutes	I-Time
+,	O
+stirring	B-Action
+frequently	O
+,	O
+until	O
+they	O
+are	O
+soft	B-Condition
+but	O
+not	B-Condition
+brown	I-Condition
+.	O
+
+With	O
+a	O
+pastry	B-Tool
+brush	I-Tool
+or	O
+paper	B-Tool
+towels	I-Tool
+,	O
+spread	B-Action
+a	O
+1	B-Condition
+1	I-Condition
+/	I-Condition
+2	I-Condition
+to	I-Condition
+2	I-Condition
+-	I-Condition
+quart	I-Condition
+souffl	B-Tool
+	O
+
+or	O
+baking	B-Tool
+dish	I-Tool
+with	O
+the	O
+remaining	B-Condition
+half	B-Amount
+tablespoon	I-Amount
+of	O
+butter	B-Ingredient
+.	O
+
+Drain	B-Action
+the	O
+
+potatoes	B-Ingredient
+and	O
+pat	B-Action
+them	O
+dry	B-Condition
+with	O
+paper	B-Tool
+towels	I-Tool
+.	O
+
+Arrange	B-Action
+a	O
+layer	O
+of	O
+potatoes	B-Ingredient
+
+on	O
+the	O
+bottom	O
+of	O
+the	O
+dish	B-Tool
+and	O
+then	O
+alternate	B-Action
+layers	O
+of	O
+onions	B-Ingredient
+and	O
+
+anchovies	B-Ingredient
+ending	O
+with	O
+potatoes	B-Ingredient
+.	O
+
+Sprinkle	B-Action
+each	O
+layer	O
+with	O
+a	B-Amount
+little	I-Amount
+white	B-Ingredient
+
+pepper	B-Ingredient
+.	O
+
+Scatter	B-Action
+bread	B-Ingredient
+crumbs	I-Ingredient
+over	O
+the	O
+top	O
+layer	O
+of	O
+potatoes	B-Ingredient
+and	O
+dot	B-Action
+the	O
+
+casserole	B-Group
+with	O
+the	O
+2	B-Amount
+tablespoons	I-Amount
+of	O
+butter	B-Ingredient
+cut	B-Condition
+into	O
+bits	B-Group
+.	O
+
+In	O
+a	O
+small	B-Condition
+
+saucepan	B-Tool
+,	O
+heat	B-Action
+the	O
+milk	B-Ingredient
+and	O
+cream	B-Ingredient
+until	O
+it	O
+barely	O
+simmers	O
+,	O
+then	O
+pour	B-Action
+
+over	O
+potatoes	B-Ingredient
+.	O
+
+Bake	B-Action
+in	O
+the	O
+center	O
+of	O
+the	O
+oven	B-Tool
+for	O
+45	B-Time
+minutes	I-Time
+or	O
+until	O
+the	O
+potatoes	B-Ingredient
+are	O
+
+tender	B-Condition
+when	O
+pierced	O
+with	O
+the	O
+tip	O
+of	O
+a	O
+sharp	B-Condition
+knife	B-Tool
+or	O
+skewer	B-Tool
+and	O
+the	O
+
+liquid	O
+is	O
+nearly	O
+absorbed	O
+.	O
+
+.	O
+\	O
+\	O
+ichele	O
+'	O
+s	O
+notes	O
+:	O
+I	O
+hate	O
+anchovies	O
+.	O
+
+With	O
+a	O
+passion	O
+.	O
+
+But	O
+this	O
+is	O
+one	O
+of	O
+
+the	O
+best	O
+dishes	O
+I	O
+ever	O
+had	O
+.	O
+
+The	O
+cream	O
+and	O
+milk	O
+leech	O
+the	O
+salty	O
+anchovy	O
+
+taste	O
+right	O
+out	O
+and	O
+it	O
+turns	O
+into	O
+what	O
+can	O
+only	O
+be	O
+described	O
+as	O
+heaven	O
+.	O
+
+A	O
+definite	O
+Swedish	O
+Christmas	O
+staple	O
+at	O
+our	O
+house	O
+!	O
+
+Source	O
+:	O
+Time	O
+/	O
+Life	O
+Foods	O
+of	O
+the	O
+World	O
+,	O
+
+Recipes	O
+:	O
+The	O
+Cooking	O
+of	O
+Scandinavia	O
+(	O
+1968	O
+)	O
+
+Typos	O
+by	O
+.	O
+\	O
+\	O
+ichele	O
+
+-DOCSTART- -X- -X- O
+
+Title	O
+:	O
+SPICY	B-Title
+CRANBERRY	I-Title
+SAUCE	I-Title
+-	O
+TKMhol	O
+
+Categories	O
+:	O
+Sauces	O
+,	O
+Holiday	O
+
+Yield	O
+:	O
+1	O
+batch	O
+
+1	B-Amount
+c	I-Amount
+SUGAR	B-Ingredient
+
+1	B-Amount
+c	I-Amount
+WATER	B-Ingredient
+
+1	B-Amount
+ea	I-Amount
+3	B-Condition
+"	I-Condition
+CINNAMON	B-Ingredient
+STICK	I-Ingredient
+
+1	B-Amount
+/	I-Amount
+8	I-Amount
+ts	I-Amount
+SALT	B-Ingredient
+
+2	B-Amount
+c	I-Amount
+CRANBERRY	B-Ingredient
+'	I-Ingredient
+S	I-Ingredient
+
+Place	B-Action
+ingriedents	B-Group
+in	O
+sauce	B-Tool
+pan	I-Tool
+(	O
+except	O
+Cranberries	B-Ingredient
+.	O
+)	O
+bring	B-Action
+to	O
+boil	O
+and	O
+
+allow	B-Action
+to	O
+boil	O
+for	O
+5	B-Time
+min	I-Time
+.	O
+
+Add	B-Action
+previously	O
+omitted	O
+Cranberries	B-Ingredient
+,	O
+
+continue	B-Action
+to	O
+boil	O
+for	O
+5	B-Time
+min	I-Time
+without	O
+stirring	O
+.	O
+
+Place	B-Action
+in	O
+bowl	B-Tool
+cool	O
+and	O
+
+remove	B-Action
+the	O
+Cinnamon	B-Ingredient
+stick	I-Ingredient
+.	O
+
+Serve	B-Action
+with	O
+Poultry	O
+.	O
+
+Compliments	O
+of	O
+Kathy	O
+Maines	O
+.	O
+
+Taken	O
+from	O
+the	O
+Holiday	O
+book	O
+from	O
+Cooking	O
+Magic	O
+.	O
+
+-DOCSTART- -X- -X- O
+
