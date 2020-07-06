@@ -6,7 +6,7 @@ import os
 
 class Extractor:
     def __init__(self, model, recipes):
-        self.ingreds=set()
+        self.ingreds={}
         self.recipes=recipes
         self.model = SequenceTagger.load(model + '/best-model.pt')
 
@@ -29,7 +29,7 @@ class Extractor:
                     if(len(ingredList)>0):
                         ingredList[-1] = ingredList[-1] + ' ' + stripped
                     else:
-                        ingredList.append(stripped)
+                        continue
         return ingredList
 
     #for a single folder containing recipe files
@@ -41,19 +41,32 @@ class Extractor:
                 self.model.predict(sentence)
                 sub_list = self._find_ingredients(sentence)
                 for item in sub_list:
-                    self.ingreds.add(item)
+                    try:
+                        self.ingreds[item]+=1
+                    except KeyError:
+                        self.ingreds[item]=1
 
     #For several sub-directories in one larger directory containing recipe files
     def compile_set_deep(self):
         for dir in os.walk(self.recipes):
             for filename in glob.glob(dir[0] + '/*.txt'):
                 fr = open(filename, 'r')
+                last=''
                 for line in fr:
                     sentence = Sentence(line)
                     self.model.predict(sentence)
                     sub_list = self._find_ingredients(sentence)
                     for item in sub_list:
-                        self.ingreds.add(item)
+                        try:
+                            self.ingreds[item] += 1
+                        except KeyError:
+                            self.ingreds[item] = 1
+                        last=item
+                if(self.ingreds[last]>=10):
+                    print(filename+':\n')
+                    print('last ingredient: '+item)
+                    print('\n-----------\n')
+
 
 
     def get_ingreds(self):
@@ -62,15 +75,17 @@ class Extractor:
     def set_to_file(self, filename):
         wr=open(filename, 'w')
         for item in self.ingreds:
-            wr.write(item+'\n')
+            if(self.ingreds[item]>=10):
+                wr.write(item+'\n')
 
     def get_from_file(self, filename):
         r=open(filename,'r')
         for line in r:
             line = line.replace('\n', '')
-            self.ingreds.add(line)
+            self.ingreds[line]=1
 
     def append_to_file(self, filename):
         a=open(filename, 'a+')
         for item in self.ingreds:
-            a.write(item+'\n')
+            if(self.ingreds[item]>=10):
+                a.write(item+'\n')
