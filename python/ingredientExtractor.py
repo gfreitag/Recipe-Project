@@ -72,11 +72,16 @@ class Extractor:
     def get_ingreds(self):
         return self.ingreds
 
-    def set_to_file(self, filename):
+    def set_to_file(self, filename, flag):
         wr=open(filename, 'w')
         for item in self.ingreds:
             if(self.ingreds[item]>=10):
                 wr.write(item+'\n')
+
+    def set_to_file(self, filename):
+        wr = open(filename, 'w')
+        for item in self.ingreds:
+            wr.write(item+'\n')
 
     def get_from_file(self, filename):
         r=open(filename,'r')
