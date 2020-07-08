@@ -1,8 +1,14 @@
+'''
+Ingredient Extractor class- for use in predicting labels of unannotated data using a pre-trained model,
+and the grabbing only the ingredients to be used in other ways.
+'''
+
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import glob
 import re
 import os
+
 
 class Extractor:
     def __init__(self, model, recipes):
@@ -32,7 +38,7 @@ class Extractor:
                         continue
         return ingredList
 
-    #for a single folder containing recipe files
+    # for a single folder containing recipe files
     def compile_set(self):
         for filename in glob.glob(self.recipes + '/*.txt'):
             fr = open(filename, 'r')
@@ -46,7 +52,7 @@ class Extractor:
                     except KeyError:
                         self.ingreds[item]=1
 
-    #For several sub-directories in one larger directory containing recipe files
+    # For several sub-directories in one larger directory containing recipe files
     def compile_set_deep(self):
         for dir in os.walk(self.recipes):
             for filename in glob.glob(dir[0] + '/*.txt'):
@@ -72,12 +78,14 @@ class Extractor:
     def get_ingreds(self):
         return self.ingreds
 
+    # for setting to file ingredients with important frequencies
     def set_to_file(self, filename, flag):
         wr=open(filename, 'w')
         for item in self.ingreds:
             if(self.ingreds[item]>=10):
                 wr.write(item+'\n')
 
+    # for setting to file ingredients without frequencies
     def set_to_file(self, filename):
         wr = open(filename, 'w')
         for item in self.ingreds:

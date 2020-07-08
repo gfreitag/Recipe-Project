@@ -1,3 +1,8 @@
+'''
+trimmer.py takes a dict of ingredients, then strips it to be purely alphabetical and without some of the artifacts
+from label prediction.
+'''
+
 from ingredientExtractor import *
 import re
 
