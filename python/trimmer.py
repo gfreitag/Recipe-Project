@@ -18,7 +18,6 @@ ingredientsCopy=ingredients.copy()
 for ingredient in ingredientsCopy:
     ingStr=str(ingredient)
     change=False
-    nonAlpha = []
     for char in ingStr:
         if (not char.isalpha()):
             if(char != ' '):
