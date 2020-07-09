@@ -57,7 +57,6 @@ def train_loop(epochs, train_rate):
 
 
 if __name__ == "__main__":
-    recipe = None       # temp
     indexToWord, wordToIndex = get_index_ingreds()
     train_loop(100, 0.001)
 
