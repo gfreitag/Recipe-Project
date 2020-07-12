@@ -6,11 +6,13 @@ from ingredientExtractor import *
 import torch
 import random
 
+
 # function for converting to one-hot
 def get_input_layer(word_idx):
     x = torch.zeros(vocabulary_size).float()
     x[word_idx] = 1.0
     return x
+
 
 # enumerating full ingredient list
 def get_index_ingreds():
@@ -20,7 +22,8 @@ def get_index_ingreds():
     for counter, item in enumerate(filename):
         indexToWord[counter] = item
         wordToIndex[item] = counter
-    return indexToWord, wordToIndex,
+    return indexToWord, wordToIndex
+
 
 # prepare for training with one recipe
 def setup(recipe, wordToIndex):
@@ -40,7 +43,7 @@ def setup(recipe, wordToIndex):
         context = random.choice(ingredList)
         while center == context:
             context = random.choice(ingredList)
-        id_pairs.append(wordToIndex[center], wordToIndex[context])
+        id_pairs.append((wordToIndex[center], wordToIndex[context]))
     return id_pairs
 
 
