@@ -1,8 +1,17 @@
+from ingredientExtractor import *
+import torch
+import random
+
 class IngredientStandardizer(object):
 
     def __init__(self, ingredient_filename):
-        self.word2index = None
-        self.index2word = None
+        self.word2index = {}
+        self.index2word = {}
+        ir=open(ingredient_filename,'r')
+        for count, line in enumerate(ir):
+            word2index[line]=count
+            index2word[count]=line
+        ir.close()
         # Read the file in and set the above member variables
         raise NotImplementedError()
 
@@ -28,8 +37,24 @@ class IngredientCompletionModel(object):
         raise NotImplementedError()
 
     def sample_pairs(self, recipe):
-        # Generate a sequence of recipe pairs from a single recipe
-        raise NotImplementedError()
+        # Generate a sequence of ingredient pairs from a single recipe
+        extractor=Extractor('fullModel', recipe)
+        extractor.compile_set_shallow()
+        ingredList=extractor.get_ingreds()
+
+        if len(ingredList) <= 1:
+            raise ValueError()
+        id_pairs = []
+        for i in range(0, 20):
+            # Maybe make this test outside the loop.
+
+            center = random.choice(ingredList)
+            context = random.choice(ingredList)
+            while center == context:
+                context = random.choice(ingredList)
+            id_pairs.append((wordToIndex[center], wordToIndex[context]))
+        return id_pairs
+        #raise NotImplementedError()
 
     def train(self, model_dir='fullModel', epochs=100, learning_rate=0.01):
         raise NotImplementedError()
