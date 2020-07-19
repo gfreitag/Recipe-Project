@@ -1,6 +1,7 @@
-from ingredientExtractor import *
+from .ingredientExtractor import *
 import torch
 import random
+
 
 class IngredientStandardizer(object):
 
@@ -25,9 +26,11 @@ class IngredientStandardizer(object):
 
 class IngredientCompletionModel(object):
 
-    def __init__(self, ingredient_standarizer, model_filename=None):
+    def __init__(self, ingredient_standarizer, recipe_source=None, model_filename=None):
         self.model = None
         self.ingredient_standardizer = ingredient_standarizer
+        self.model_filename = model_filename
+        self.recipe_source = recipe_source
         # if the filename is present, load the model.
         # Otherwise, create a new one.
         raise NotImplementedError()
@@ -63,3 +66,15 @@ class IngredientCompletionModel(object):
         # Given a set of ingredients, predict what other ingredients should be present
         raise NotImplementedError()
 
+
+if __name__ == "__main__":
+
+    import plac
+
+    # Here's a function to train the model from scratch
+    def main(ingredient_fname, recipe_directory, model_directory):
+        standardizer = IngredientStandardizer(ingredient_fname)
+        model = IngredientCompletionModel(standardizer, recipe_source=recipe_directory)
+        model.train(model_directory)
+
+    plac.call(main)
