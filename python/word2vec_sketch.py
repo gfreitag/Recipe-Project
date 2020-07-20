@@ -1,6 +1,7 @@
 from ingredientExtractor import *
 import torch
 import random
+import os
 
 class IngredientStandardizer(object):
 
@@ -30,6 +31,10 @@ class IngredientCompletionModel(object):
         self.ingredient_standardizer = ingredient_standarizer
         # if the filename is present, load the model.
         # Otherwise, create a new one.
+        if os.path.exists(model_filename):
+            #load model
+        else:
+            self.train()
         raise NotImplementedError()
 
     def recipes(self):
@@ -47,7 +52,6 @@ class IngredientCompletionModel(object):
         id_pairs = []
         for i in range(0, 20):
             # Maybe make this test outside the loop.
-
             center = random.choice(ingredList)
             context = random.choice(ingredList)
             while center == context:
@@ -63,3 +67,7 @@ class IngredientCompletionModel(object):
         # Given a set of ingredients, predict what other ingredients should be present
         raise NotImplementedError()
 
+    def get_input_layer(self, word_idx):
+        x = torch.zeros(vocabulary_size).float()
+        x[word_idx] = 1.0
+        return x
