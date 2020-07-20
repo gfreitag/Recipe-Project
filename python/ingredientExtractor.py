@@ -86,21 +86,31 @@ class Extractor:
                     print('last ingredient: ' + item)
                     print('\n-----------\n')
 
+    def get_recipes(self):
+        for directory in os.walk(self.recipes):
+            for filename in glob.glob(directory[0] + '/*.txt'):
+                ingreds = {}
+                with open(filename) as fr:
+                    for line in fr:
+                        sentence = Sentence(line)
+                        self.model.predict(sentence)
+                        sub_list = self._find_ingredients(sentence)
+                        for item in sub_list:
+                            try:
+                                ingreds[item] += 1
+                            except KeyError:
+                                ingreds[item] = 1
+                yield ingreds
+
     def get_ingreds(self):
         return self.ingreds
 
     # for setting to file ingredients with important frequencies
-    def set_to_file(self, filename, flag):
-        wr = open(filename, 'w')
+    def set_to_file(self, filename, minfreq=0):
+        wr=open(filename, 'w')
         for item in self.ingreds:
-            if self.ingreds[item] >= 10:
-                wr.write(item + '\n')
-
-    # for setting to file ingredients without frequencies
-    def set_to_file(self, filename):
-        wr = open(filename, 'w')
-        for item in self.ingreds:
-            wr.write(item + '\n')
+            if self.ingreds[item]>=minfreq:
+                wr.write(item+'\n')
 
     def get_from_file(self, filename):
         r = open(filename, 'r')
