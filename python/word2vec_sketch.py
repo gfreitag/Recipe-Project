@@ -48,10 +48,14 @@ class IngredientCompletionModel(object):
         self.model = (W1, W2)
 
     def save_model(self, filename):
-        raise NotImplementedError()
+        with open(filename, 'w') as mo:
+            mo.write(self.model)
 
     def load_model(self):
-        raise NotImplementedError()
+        model_name = input('model name:')
+        with open(model_name, 'r') as mo:
+            model = mo.read()
+            self.model = model
 
     def recipes(self):
         for recipe in self.extractor.get_recipes():
@@ -74,11 +78,17 @@ class IngredientCompletionModel(object):
             id_pairs.append((stdr.word_to_index(center), stdr.word_to_index(context)))
         return id_pairs
 
-    def train(self, model_dir='fullModel', epochs=100, learning_rate=0.01):
+    def train(self, epochs=100, learning_rate=0.01):
         W1, W2 = self.model
         for epoch in range(epochs):
+            loss = 0
             for recipe in self.recipes():
                 for center, context in self.sample_pairs(recipe):
+                    x = Variable(get_input_layer(data)).float()
+                    y_true = Variable(torch.from_numpy(np.array([target])).long())
+                    z1 = torch.matmul(W1, x)
+                    z2 = torch.matmul(W2, z1)
+                    log_softmax = torch.functional.log_softmax(z2, dim=0)
                     # Do something
                     raise NotImplementedError()
 
@@ -87,7 +97,7 @@ class IngredientCompletionModel(object):
         raise NotImplementedError()
 
     def get_input_layer(self, word_idx):
-        x = torch.zeros(vocabulary_size).float()
+        x = torch.zeros(self.vocabulary_size()).float()
         x[word_idx] = 1.0
         return x
 
